@@ -1,0 +1,393 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Ofertas de Trabajo en Moda | A Fashion Mix</title>
+		<meta name="description" content="¿Quieres trabajar en Moda? Consulta las ofertas de empleo de moda y belleza que te proponemos. A Fashion 				Mix tanto en oficinas (product manager, diseñador, community manager, rrhh...) como en tienda (responsable de tienda, store manager, vendedor, 	visual merchandiser...)" />
+		<meta name="keywords" content="empleo en moda, trabajo, ofertas de trabajo, empleo en españa, búsqueda de trabajo, trabajo en marcas de moda, empleo en marcas de moda, portal de empleo,,">
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
+        <link href="../css/empleo.css" rel="stylesheet" type="text/css">
+        <link href="../css/fashionmenu.css" rel="stylesheet" type="text/css">    
+        <link href="../css/fashioncomponent.css" rel="stylesheet" type="text/css">    
+        <script src="//code.jquery.com/jquery-latest.js"></script>
+        <script src='../js/fashionmenu.js'></script> 
+        <script src='../js/modernizr.custom.js'></script> 
+        <script src='../js/jquery.dlmenu.js'></script> 
+        
+        <meta name="apple-mobile-web-app-title" content="A Fashion Mix">
+<link rel="apple-touch-icon" href="http://www.afashionmix.com/images/afashionmix60.png">
+<link rel="apple-touch-icon" sizes="76x76" href="http://www.afashionmix.com/images/afashionmix76.png">
+<link rel="apple-touch-icon" sizes="120x120" href="http://www.afashionmix.com/images/afashionmix120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="http://www.afashionmix.com/images/afashionmix152.png">
+        
+        <meta name="apple-mobile-web-app-title" content="A Fashion Mix">
+        
+        <script>
+		function signinemp(){
+			$("#HeaderLogin").slideToggle("slow");
+			$("#HeaderLoginSmart").slideToggle("slow");
+			$('html, body').animate({scrollTop:0}, 'slow');		
+			$("#topmessage").show();
+		};	
+		</script> 
+ <style>
+
+
+
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.grid-item {
+  padding: 20px;
+  text-align: center;
+}
+ @media only screen and (max-width: 800px) {
+.grid-container {  grid-template-columns: auto auto ;}
+}
+
+@media only screen and (max-width: 300px) {
+.grid-container {  grid-template-columns: auto  ;}
+}
+
+
+</style>       
+        
+    </head>
+    
+    <body >
+    
+    	
+
+
+
+<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35877462-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script src='http://www.afashionmix.com/js/cookiechoices.js'></script> 
+        <script>
+		  document.addEventListener('DOMContentLoaded', function(event) {
+			cookieChoices.showCookieConsentBar('Este sitio web utiliza cookies propias y de terceros para una mejor experiencia',
+			  'Cerrar mensaje', 'Más información', 'http://www.afashionmix.com/conduso.php#cookies');
+		  });
+		</script>
+    	<div id="NoSmart">
+            <div id="HeaderLogin"  >
+                <div id="wrapHeaderLogin">
+                    <div id="LoginFormBox">
+                        <div id="BoxLoginLogo">
+                            <div id="LogoLoginForm">
+                                <img src="http://www.afashionmix.com/images/afashionmix_logo.png" class="LogoLF" />
+                            </div> 
+                        </div>
+                        <div id="SectionFormLoginHeader">
+                            <div id="SectionFormLogin">
+                                <div id="LineFLogin"></div>
+                                <div id="wrapFormLogin">                                     
+                                     <form id="FormLoggin" action="http://www.afashionmix.com/checklogin.php" method="post" enctype="multipart/form-data">
+                                        <input name="email" id="UL" placeholder="Email" type="text" maxlength="80" />
+                                        <input name="password" id="PW" placeholder="Password" type="password"/>
+                                         <div id="Login" class="BotonSesion">Iniciar sesión</div>
+                                         <div id="RecoverFormLabel"><a href="http://www.afashionmix.com/forgot_password.php" class="LinkRecover">Recuperar constraseña</a></div>
+                                         <div id="AlertLoginFormLabel">Email y contraseña no coinciden</div>
+                                         <div id="AlertLoginFormLabel2">Datos incorrectos, por favor completelos correctamente</div>
+                                         <input type="hidden" name="urlentrance" value="http://www.afashionmix.com/trabajo/index.php?area=1001/favicon.ico">
+                                    </form>
+                                </div>
+                            </div> <!-- SectionFormLogin -->
+                            <div id="SectionFormNewUser">
+                                <div id="wrapFormLoginNew">
+                                    <div id="IconoNewUser"><img src="http://www.afashionmix.com/images/ico_usuario2.png" class="IcoUser" /></div>
+                                    <div class="LabelLoginNuevo">NUEVO USUARIO</div>
+                                    <a href="http://www.afashionmix.com/register.php"><div id="BotonNewLogin" class="LabelNewLogin">Crea tu cuenta gratis</div></a>
+                            	</div>
+                            </div> <!-- SectionFormNewUser -->
+                        </div> <!-- SectionFormLoginHeader -->
+                    </div> <!-- LoginFormBox -->
+                    <div id="LoginFormLabel"><a href="https://www.burberry.com/" class="LinkLogin" target="_blank">Burberry</a></div>
+                </div> <!-- wrapHeaderlogin -->
+            </div> <!-- HeaderLogin -->
+        </div> <!-- NoSmart -->
+        
+    	<div id="NoSmart2">
+        <div id="HeaderFashion"> 
+            <div id="wrapHeader">
+            	<div id="HFLogo">
+                	<a href="http://www.afashionmix.com">
+                        <div id="LogoFashion">
+                            <img src="http://www.afashionmix.com/images/logo_afashionmix.png" class="LogoH" />
+                        </div> 
+                    </a>
+                </div>  <!-- HFLogo -->                                 
+                            
+                <div id="HFMenu">
+                	<div id="SeccionM1" class="SeccionFonts">
+                    	<a href="http://www.afashionmix.com/trabajo/">
+                            <div id="HFMenuEmpleo">
+                                <div id="IconoEmpleo"><img src="http://www.afashionmix.com/images/ico_empleo.png" class="IcoHeader" /></div>
+                                <div id="BotonLine"></div>
+                                <div id="BotonLabelMenu1">Empleo</div>
+                            </div> <!-- HFMenuEmpleo -->
+                        </a>
+                    </div>
+                    <div id="SeccionM2">
+                    	<div id="HFMenuCursos">
+                        	<div id="HFMenuCursosWrap">
+                            	<a href="http://www.afashionmix.com/formacion/">
+                                    <div id="IconoCursos"><img src="http://www.afashionmix.com/images/ico_cursos.png" class="IcoHeader" /></div>
+                                    <div id="TextCursosH">Cursos Online para Moda</div>
+                                </a>
+                                <div id="BotonLine"></div>                                
+                                <div id="SubmenuBotones">
+                                	<a href="http://www.afashionmix.com/cursoinglesmoda/" class="LinkCursos"><div id="SubmenuIngles">Inglés</div></a>
+                                    <a href="" class="LinkCursos"><div id="SubmenuMedia"></div></a>
+                                    <a href="http://www.afashionmix.com/cursomarketingmoda/" class="LinkCursos"><div id="SubmenuMarketing">Marketing</div></a>
+                                     <a href="" class="LinkCursos"><div id="SubmenuMedia"></div></a>
+                                    <a href="http://www.afashionmix.com/cursoinstagram/" class="LinkCursos"><div id="SubmenuInstagram">Instagram</div></a>
+                                </div>
+                            </div>
+                        </div> <!-- HFMenuCursos -->
+                    </div>
+                    
+                </div> <!-- HFMenu -->     
+                         
+                <div id="HFLogin">
+                	<div id="wrapLogin">
+                		<div id="BotonAccesoMiCuenta" class="BotonMiCuenta">MI CUENTA <i class="icon-menu"></i></div> 
+                        <a href="http://www.afashionmix.com/register.php">
+                            <div id="BotonNuevoUsuario">
+                                <div id="IconoMagazine"><img src="http://www.afashionmix.com/images/ico_usuario.png" class="IcoHeader" /></div>
+                                <div class="BotonLabelNuevo">NUEVO USUARIO</div>
+                                <div class="LabelNuevoInfo">Crea tu cuenta gratis</div>
+                            </div>
+                        </a>
+                    </div> <!-- wrapLogin -->
+                    
+                    <div id="wrapLogged">
+                    	<div id="UserLogged" class="LabelLogged">Hola José Maria</div>
+                		<a href="http://www.afashionmix.com/micuenta/" ><div class="LabelLinksL">MI CUENTA</div> </a>
+                        <a href="http://www.afashionmix.com/micuenta/contacto.php"><div class="LabelLinksL">CONTACTO</div></a>
+                        <a href="http://www.afashionmix.com/logout.php"><div class="LabelLinksL">FIN DE SESIÓN</div></a>
+                    </div> <!-- wrapLogged -->
+                    
+                </div> <!-- HFLogin -->
+            </div> <!-- wrapHeader -->            
+        </div> <!-- HeaderFashion --> 
+        </div> <!-- NoSmart2 -->
+        
+        <div id="HeaderFashionT"> 
+        	<div id="WrapNav">
+                <div id="LogoFashion">
+                <a href="http://www.afashionmix.com">
+                    <img src="http://www.afashionmix.com/images/logo_afashionmix.png" class="LogoH" />
+                </a>
+                </div> 
+                <a href="http://www.afashionmix.com/trabajo/">
+                    <div id="HFMenuEmpleo" class="SeccionFonts">
+                        <div id="IconoEmpleo"><img src="http://www.afashionmix.com/images/ico_empleo.png" class="IcoHeader" /></div>    
+                        <div id="BotonLabelMenu1">Empleo</div>
+                    </div> <!-- HFMenuEmpleo -->
+                </a>
+                <div id="SubMenuCursos" >
+                    <div id="HFMenuCursosT">
+                        <div id="IconoCursos"><a href="http://www.afashionmix.com/formacion/"><img src="http://www.afashionmix.com/images/ico_cursos.png" class="IcoHeader" /></a></div>
+                        <div id="TextCursosH">Cursos Online</div>
+                    </div>
+                </div>
+                <div id="HFMenuCursosTNav">
+                    <div id="IconoCursos"><a href="http://www.afashionmix.com/formacion/"><img src="http://www.afashionmix.com/images/ico_cursos.png" class="IcoHeader" /></a></div>
+                </div>
+                
+                
+                <div id="wrapLogin">
+                    <div id="BotonAccesoMiCuentaT" class="BotonMiCuenta">MI CUENTA <i class="icon-menu"></i></div> 
+                    <div id="BotonNuevoUsuarioT">
+                        <div id="IconoUser"><img src="http://www.afashionmix.com/images/ico_usuario.png" class="IcoHeader" /></div>
+                        <a href="http://www.afashionmix.com/register.php"><div class="BotonLabelNuevo">NUEVO USUARIO</div></a>
+                    </div>
+                </div>
+                
+                <div id="wrapLogged">
+                    <div id="UserLogged" class="LabelLogged">Hola José Maria</div>
+                    <a href="http://www.afashionmix.com/micuenta/" ><div class="LabelLinksL">MI CUENTA</div> </a>
+                    <a href="http://www.afashionmix.com/micuenta/contacto.php"><div class="LabelLinksL">CONTACTO</div></a>
+                    <a href="http://www.afashionmix.com/logout.php"><div class="LabelLinksL">FIN DE SESIÓN</div></a>
+                </div> <!-- wrapLogged -->
+                
+                <div id="wrapLoggedT">
+                	<div id="LoggedSection">
+                        <div id="UserLogged" class="LabelLoggedT">Hola José Maria</div>
+                        <a href="http://www.afashionmix.com/logout.php"><div class="LabelLinksLT">FIN DE SESIÓN</div></a>
+                    </div>
+                    <div id="LineLogged"></div>
+                    <div id="LoggedSection">
+                        <a href="http://www.afashionmix.com/micuenta/" ><div class="LabelLinksLT">MI CUENTA</div> </a>
+                        <a href="http://www.afashionmix.com/micuenta/contacto.php"><div class="LabelLinksLT">CONTACTO</div></a>
+                    </div>
+                </div> <!-- wrapLogged -->
+                                
+                <div id="dl-menu" class="dl-menuwrapper">
+                	<button class="dl-trigger">Open Menu</button>
+                    <ul class="dl-menu">
+                        <li>
+                            <a href="javascript:ActivarFormSmart();">MI CUENTA</a>	
+                        </li>	
+                        <li>
+                            <a href="http://www.afashionmix.com/register.php">NUEVO USUARIO</a>	
+                        </li>
+                        <li>
+                            <a href="http://www.afashionmix.com/trabajo/">Empleo</a>	
+                        </li>								
+                        <li><p class="TSubmenuC">Cursos Online</p></li>
+                            
+                                <li class="SubLiMenu"><a href="http://www.afashionmix.com/cursoinglesmoda/">Inglés para Moda</a></li>
+                                <li class="SubLiMenu"><a href=""></a></li>
+                                <li class="SubLiMenu"><a href="http://www.afashionmix.com/cursomarketingmoda/">Marketing para Moda</a></li>
+                                 <li class="SubLiMenu"><a href=""></a></li>
+                                <li class="SubLiMenu"><a href="http://www.afashionmix.com/cursoinstagram/">Instagram para Moda</a></li>
+                            
+                       							
+                    </ul>
+                </div><!-- /dl-menuwrapper -->
+        	</div> <!-- WrapNav -->
+        </div>	<!-- HeaderFashionT -->
+		
+         <div id="wrapSubMenuCursos">
+            <div id="BotonLineSub"></div>
+            <a href="http://www.afashionmix.com/formacion/"><div id="SubmenuLabel">Formación online para moda</div></a>
+            <div id="BotonCursoSub"><a class="SubMenu" href="http://www.afashionmix.com/cursoinglesmoda/">Inglés</a></div>
+            <div id="BotonCursoSubC"><a class="SubMenu" href=""></a></div>
+            <div id="BotonCursoSub"><a class="SubMenu" href="http://www.afashionmix.com/cursomarketingmoda/">Marketing</a></div>
+            <div id="BotonCursoSubC"><a class="SubMenu" href=""></a></div>
+            <div id="BotonCursoSub"><a class="SubMenu" href="http://www.afashionmix.com/cursoinstagram/">Instagram</a></div>
+        </div>
+        
+        <div id="SmartLog">
+            <div id="HeaderLoginSmart"   >
+                <div id="wrapHeaderLoginSmart">
+                    <div id="LoginFormBoxSmart">
+                        <div id="wrapFormLoginSmart">
+                        	<form id="FormLoggin2" action="http://www.afashionmix.com/checklogin.php" method="post" enctype="multipart/form-data">
+                                <input name="email" id="UsuarioSmart" placeholder="Email" type="text" maxlength="80" />
+                                <input name="password" id="PasswordSmart" placeholder="Password" type="password"/>
+                                 <div id="LoginSmart" class="BotonSesionSmart" >Iniciar sesión</div>
+                                 <div id="RecoverFormLabelSmart"><a href="http://www.afashionmix.com/forgot_password.php" class="LinkRecover">Recuperar constraseña</a></div>
+                                 <div id="AlertLoginFormLabelSmart">Email y contraseña no coinciden</div>
+                                 <div id="AlertLoginFormLabel2Smart">Datos incorrectos, por favor completelos correctamente</div>
+                                 <div id="wrapLoginNewSmart">
+                                    <div id="IconoNewUserSmart"><img src="http://www.afashionmix.com/images/ico_usuario2.png" class="IcoUserSmart" /></div>
+                                    <div id="SmartBoxNewUserLabels">
+                                        <div class="LabelLoginNuevoSmart">NUEVO USUARIO</div>
+                                        <a href="http://www.afashionmix.com/register.php"><div id="BotonNewLoginSmart" class="LabelNewLoginSmart">Crea tu cuenta gratis</div>  </a>
+                                    </div>        
+                                </div>
+                            	<input type="hidden" name="urlentrance" value="http://www.afashionmix.com/trabajo/index.php?area=1001/favicon.ico">
+                        	</form>    
+                        </div>       
+                        <div id="LoginFormLabelSmart"><a href="https://www.burberry.com/" class="LinkLogin" target="_blank">Burberry</a></div>                 
+                    </div> <!-- LoginFormBoxSmart -->
+                </div> <!-- wrapHeaderLoginSmart -->
+               
+            </div> <!-- HeaderLoginSmart -->
+		</div> <!-- SmartLog -->
+        
+		<script>
+			$(function() {
+				$( '#dl-menu' ).dlmenu();
+			});
+			$(window).load(function() {	
+				document.getElementById("HeaderLogin").style.background = "url('http://www.afashionmix.com/images/backgrounds/burberry.jpg') no-repeat center top";
+				document.getElementById("HeaderLoginSmart").style.background = "url('http://www.afashionmix.com/images/backgrounds/burberry.jpg') no-repeat center top";
+			});
+		</script>
+    	
+        
+        
+        
+       
+<div id="MainEmpleo" >  
+         
+
+
+         
+<div id="ofertasempleo">        
+ 
+
+ <div id="oftopromo" style="text-align:center">	
+
+Formación online especializada en moda<br/><a href="http://www.afashionmix.com/cursosocialmediamoda/info.php"  >
+	 <img id="promocurso"  src="../images/cursossmproemp.jpg"    border="0"/></a>
+<br><br>Empleo en marcas de moda<br>
+<div class="grid-container" style="clear:both">
+<div class="grid-item"><a href="https://hm.taleo.net/careersection/5/moresearch.ftl?lang=en" target="_blank"><img  src="includes/logoempesa/otherstories.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.linkedin.com/jobs/search/?f_C=10035191&location=Spain&locationId=es%3A0" target="_blank"><img  src="includes/logoempesa/21buttons.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://careers.adidas-group.com/jobs?brand=&team=&type=&keywords=&location=%5B%7B%22region%22%3A%22Europe%2C+Middle+East+%26+Africa%22%2C%22country%22%3A%22Spain%22%7D%5D&sort=&locale=en&offset=0" target="_blank"><img  src="includes/logoempesa/adidas.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.amichi.es/es/content/trabaja-con-nosotros.html" target="_blank"><img  src="includes/logoempesa/amichi.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://aristocrazy.ofertas-trabajo.infojobs.net/" target="_blank"><img  src="includes/logoempesa/aristocrazy.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.infojobs.net/gen/multisite-ij.xhtml?iCodigoPerfil=967949524526202650443215240043&perfil=benetton-espana" target="_blank"><img  src="includes/logoempesa/benetton.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.inditexcareers.com/portalweb/es/ofertas-empleo?ns=1&brand=553311&country=526131" target="_blank"><img  src="includes/logoempesa/bershka.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.infojobs.net/bestseller/em-i607649524527304100803105155174" target="_blank"><img  src="includes/logoempesa/bestseller.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="http://bylgest.bimbaylola.com/es/trabaja-con-nosotros" target="_blank"><img  src="includes/logoempesa/bimbalola.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.infojobs.net/original-buff/em-i778349524537102300106345753415" target="_blank"><img  src="includes/logoempesa/buff.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://burberrycareers.com/search/?q=&locationsearch=spain" target="_blank"><img  src="includes/logoempesa/burberry.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.c-and-a.com/es/es/corporate/company/empleo/ofertas-de-empleo-ca/" target="_blank"><img  src="includes/logoempesa/cya.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.infojobs.net/calvin-klein/em-i26b7528f8649cdb8a6a0c58d49b181" target="_blank"><img  src="includes/logoempesa/calvinklein.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="http://careers.calzedoniagroup.com/es-ES/carriere/lista-annunci" target="_blank"><img  src="includes/logoempesa/calzedonia.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.camper.com/es_ES/company/trabaja-con-nosotros" target="_blank"><img  src="includes/logoempesa/camper.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.linkedin.com/jobs/search/?f_C=2775353&locationId=OTHERS.worldwide" target="_blank"><img  src="includes/logoempesa/carolinaherrera.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="http://careers.charanga.es/" target="_blank"><img  src="includes/logoempesa/charanga.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="http://www.smcp.com/en/offers/?keywords=&geographicalLocation=22&offerCountry=74&offerRegion=&organisation=&offerFamilyCategory=&contractType=&experienceLevel=" target="_blank"><img  src="includes/logoempesa/claudiepierlot.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="http://www.tendam.es/trabaja-con-nosotros/espana/" target="_blank"><img  src="includes/logoempesa/cortefiel.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="http://career.cosstores.com/coscareer/en/findjob.html?country=coscareer%3Alocation%2Fes&%3Acq_csrf_token=undefined" target="_blank"><img  src="includes/logoempesa/cos.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://trabajaconnosotros.decathlon.es/candidaturas-abiertas/" target="_blank"><img  src="includes/logoempesa/decathlon.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.infojobs.net/deichmann-calzados-s.l./em-i98485155495251681011059009114484204125" target="_blank"><img  src="includes/logoempesa/deichmann.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://career5.successfactors.eu/career?company=Desigual" target="_blank"><img  src="includes/logoempesa/desigual.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.elcorteingles.es/informacioncorporativa/es/talento/unete-al-equipo/" target="_blank"><img  src="includes/logoempesa/elcorteingles.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://encuentromodas.epreselec.com/Ofertas/Ofertas.aspx" target="_blank"><img  src="includes/logoempesa/encuentromoda.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.eseoese.com/trabaja-con-nosotros" target="_blank"><img  src="includes/logoempesa/eseoese.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.lvmh.com/talents/work-with-us/job-offers/view-our-current-opportunities/?job=&place=258&experience=&activity=&contract=&reference=#gt_offers-results" target="_blank"><img  src="includes/logoempesa/fendi.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="http://www.tendam.es/trabaja-con-nosotros/espana/" target="_blank"><img  src="includes/logoempesa/fifty.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://careers.talentclue.com/es/company/17083660/offers/menu/modal?time=1497339026" target="_blank"><img  src="includes/logoempesa/forecast.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.infojobs.net/g-star-raw-denim/em-i66545052525255713283843007275936002246" target="_blank"><img  src="includes/logoempesa/gstar.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.linkedin.com/jobs/search/?f_C=63701&f_L=es%3A0&locationId=OTHERS.worldwide" target="_blank"><img  src="includes/logoempesa/geox.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://gioseppo.com/es-es/trabaja-con-nosotros" target="_blank"><img  src="includes/logoempesa/gioseppo.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://career.hm.com/content/hmcareer/es_es.html" target="_blank"><img  src="includes/logoempesa/hm.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.hackett.com/es/careers/" target="_blank"><img  src="includes/logoempesa/hackett.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://careers.hugoboss.com/?locale=es_ES" target="_blank"><img  src="includes/logoempesa/hugoboss.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.inditexcareers.com/portalweb/es/ofertas-empleo?ns=1&brand=539123&country=526131" target="_blank"><img  src="includes/logoempesa/inditex.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://inside.ofertas-trabajo.infojobs.net/" target="_blank"><img  src="includes/logoempesa/inside.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://hoss-intropia.trabajo.infojobs.net/" target="_blank"><img  src="includes/logoempesa/hossintropia.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://thekiabijobexperience.com/" target="_blank"><img  src="includes/logoempesa/kiabi.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.inditexcareers.com/portalweb/es/ofertas-empleo?ns=1&brand=120351536&country=526131" target="_blank"><img  src="includes/logoempesa/kiddysclass.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.koroshishop.com/trabaja-con-nosotros/" target="_blank"><img  src="includes/logoempesa/koroshi.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://careers-laroca.icims.com/jobs/search?ss=1" target="_blank"><img  src="includes/logoempesa/larocavillage.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://careers-lasrozas.icims.com/jobs/search?ss=1&mobile=false&width=960&height=500&bga=true&needsRedirect=false&jan1offset=60&jun1offset=120" target="_blank"><img  src="includes/logoempesa/lasrozasvillage.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.inditexcareers.com/portalweb/es/ofertas-empleo?ns=1&brand=539100&country=526131" target="_blank"><img  src="includes/logoempesa/lefties.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.infojobs.net/levi-strauss-de-espana/em-i786950524538205721816044944741" target="_blank"><img  src="includes/logoempesa/levis.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.infojobs.net/loewe/em-i966157524526202150343215455615" target="_blank"><img  src="includes/logoempesa/loewe.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.lvmh.com/talents/work-with-us/job-offers/view-our-current-opportunities/?job=&place=258&experience=&activity=&contract=&reference=#gt_offers-results" target="_blank"><img  src="includes/logoempesa/louisvuitton.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.lvmh.com/talents/work-with-us/job-offers/view-our-current-opportunities/?job=&place=258&experience=&activity=&contract=&reference=#gt_offers-results" target="_blank"><img  src="includes/logoempesa/lvmh.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="http://www.smcp.com/en/offers/?keywords=&geographicalLocation=22&offerCountry=74&offerRegion=&organisation=&offerFamilyCategory=&contractType=&experienceLevel=" target="_blank"><img  src="includes/logoempesa/maje.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="http://www.smcp.com/en/offers/?keywords=&geographicalLocation=22&offerCountry=74&offerRegion=&organisation=&offerFamilyCategory=&contractType=&experienceLevel=" target="_blank"><img  src="includes/logoempesa/maje.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://mango-emea.jobs.net/es-ES/search?keywords=&facetcountry=es" target="_blank"><img  src="includes/logoempesa/mango.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.martinelli.es/es-es/contacto/index/empleo" target="_blank"><img  src="includes/logoempesa/martinelli.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.inditexcareers.com/portalweb/es/ofertas-empleo?ns=1&brand=539085&country=526131" target="_blank"><img  src="includes/logoempesa/massimodutti.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://ww3.mayoral.com/if/es/empleo_ofertas.asp" target="_blank"><img  src="includes/logoempesa/mayoral.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.linkedin.com/jobs/search/?f_C=20369&location=Spain&locationId=es%3A0" target="_blank"><img  src="includes/logoempesa/michaelkors.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.infojobs.net/misako/em-i731052524530003281664215750893" target="_blank"><img  src="includes/logoempesa/misako.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://mtngexperience.ofertas-trabajo.infojobs.net/" target="_blank"><img  src="includes/logoempesa/mtng.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.nicethingspalomas.com/es_es/trabaja-con-nosotros/" target="_blank"><img  src="includes/logoempesa/nicethings.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://jobs.nike.com/search-jobs/Spain/824/2/2510769/40/-4/50/2" target="_blank"><img  src="includes/logoempesa/nike.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.nkn.es/es/content/trabaja-con-nosotros" target="_blank"><img  src="includes/logoempesa/nkn.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.infojobs.net/organizacion-gomez-de-zamora/em-i66555756525449791141033008116258905043" target="_blank"><img  src="includes/logoempesa/ogaza.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.inditexcareers.com/portalweb/es/ofertas-empleo?ns=1&brand=539105&country=526131" target="_blank"><img  src="includes/logoempesa/oysho.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://pacomartinez.epreselec.com/Ofertas/Ofertas.aspx" target="_blank"><img  src="includes/logoempesa/pacomartinez.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://ldd.tbe.taleo.net/ldd04/ats/careers/v2/searchResults?org=BARHOLD&cws=49" target="_blank"><img  src="includes/logoempesa/parfois.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="http://www.tendam.es/trabaja-con-nosotros/espana/" target="_blank"><img  src="includes/logoempesa/pedrodelhierro.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://pepe-jeans.trabajo.infojobs.net/ofertas-oficina" target="_blank"><img  src="includes/logoempesa/pepejeans.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.infojobs.net/grupo-pikolinos/em-i65535149565849676582689006156093101695" target="_blank"><img  src="includes/logoempesa/pikolinos.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="http://job.pimkie.es/classifieds?type[]=Cdi&type[]=Cdd" target="_blank"><img  src="includes/logoempesa/pimkie.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://prenatal.ofertas-trabajo.infojobs.net/" target="_blank"><img  src="includes/logoempesa/prenatal.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://es.empleos.primark.com/" target="_blank"><img  src="includes/logoempesa/primark.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://privalia.trabajo.infojobs.net/" target="_blank"><img  src="includes/logoempesa/privalia.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="http://www.promodjob.com/v2/es/nous-rejoindre.php" target="_blank"><img  src="includes/logoempesa/promod.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.pronovias.com/es/pronovias-fashion-group/trabaja-con-nosotros" target="_blank"><img  src="includes/logoempesa/pronovias.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://career2.successfactors.eu/career?company=Puig&rcm_site_locale=es_ES&" target="_blank"><img  src="includes/logoempesa/puig.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.inditexcareers.com/portalweb/es/ofertas-empleo?ns=1&brand=539042&country=526131" target="_blank"><img  src="includes/logoempesa/pullbear.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="http://about.puma.com/es/careers/jobs-at-puma" target="_blank"><img  src="includes/logoempesa/puma.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.puntroma.com/ES/es/work/" target="_blank"><img  src="includes/logoempesa/puntoroma.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.linkedin.com/jobs/search/?f_C=2775353&locationId=OTHERS.worldwide" target="_blank"><img  src="includes/logoempesa/purificaciongarcia.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://ralphlauren.ofertas-trabajo.infojobs.net/" target="_blank"><img  src="includes/logoempesa/ralphlauren.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.rosaclara.es/ofertas-de-empleo-y-practicas/" target="_blank"><img  src="includes/logoempesa/rosaclara.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.salsajeans.com/es/acerca-de-la-marca/work-salsa-pg2900.html?p=jobs%2Fstores%3Fd%3DSpain" target="_blank"><img  src="includes/logoempesa/salsajeans.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="http://www.smcp.com/en/offers/?keywords=&geographicalLocation=22&offerCountry=74&offerRegion=&organisation=&offerFamilyCategory=&contractType=&experienceLevel=" target="_blank"><img  src="includes/logoempesa/sandro.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.sellbytel.com/es/carrera/ofertas-de-empleo/Search?job-search=&functions=All&level=All&places=Barcelona&language=EN%2CDE%2CES" target="_blank"><img  src="includes/logoempesa/sellbytel.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.smash-wear.com/spanish/work-with-us/" target="_blank"><img  src="includes/logoempesa/smash.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.infojobs.net/sport-zone/em-idc9a2ebf684362832f550b7a9bf564" target="_blank"><img  src="includes/logoempesa/sportzone.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="http://www.tendam.es/trabaja-con-nosotros/espana/" target="_blank"><img  src="includes/logoempesa/springfield.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://grupo-sprinter.trabajo.infojobs.net/" target="_blank"><img  src="includes/logoempesa/sprinter.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.inditexcareers.com/portalweb/es/ofertas-empleo?ns=1&brand=539110&country=526131" target="_blank"><img  src="includes/logoempesa/stradivarius.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.swarovskigroup.com/S/careers/Job_Search.en.html?filter_text=&filter_continent=EU&filter_country=ES&filter_language=&filter_function=&filter_posted_since=" target="_blank"><img  src="includes/logoempesa/swarovski.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.inditexcareers.com/portalweb/es/ofertas-empleo?ns=1&brand=539000&country=526131" target="_blank"><img  src="includes/logoempesa/tempe.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="http://www.tendam.es/trabaja-con-nosotros/espana/" target="_blank"><img  src="includes/logoempesa/grupocortefiel.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://iamtous.com/Offers#b_start=0" target="_blank"><img  src="includes/logoempesa/tous.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.tuctuc.com/es/trabaja-con-nosotros" target="_blank"><img  src="includes/logoempesa/tuctuc.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.linkedin.com/jobs/search/?f_C=66256%2C531474&location=Spain&locationId=es%3A0" target="_blank"><img  src="includes/logoempesa/uniqlo.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://unode50.epreselec.com/Ofertas/Ofertas.aspx" target="_blank"><img  src="includes/logoempesa/unode50.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.linkedin.com/jobs/search/?f_C=9714055%2C436931%2C8280%2C8281&location=Spain&locationId=es%3A0" target="_blank"><img  src="includes/logoempesa/urbanoutfitters.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.inditexcareers.com/portalweb/es/ofertas-empleo?ns=1&brand=539021&country=526131" target="_blank"><img  src="includes/logoempesa/uterque.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://careers.talentclue.com/es/company/2201932/offers/menu/modal" target="_blank"><img  src="includes/logoempesa/venca.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.linkedin.com/jobs/search/?f_C=639063&location=Spain&locationId=es%3A0" target="_blank"><img  src="includes/logoempesa/venteprivee.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="http://www.tendam.es/trabaja-con-nosotros/espana/" target="_blank"><img  src="includes/logoempesa/womensecret.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.inditexcareers.com/portalweb/es/ofertas-empleo?ns=1&brand=539059&country=526131" target="_blank"><img  src="includes/logoempesa/zara.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.inditexcareers.com/portalweb/es/ofertas-empleo?ns=1&brand=539115&country=526131" target="_blank"><img  src="includes/logoempesa/zarahome.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div><div class="grid-item"><a href="https://www.infojobs.net/zippy/em-iebc6eafca94637b2e8db3b1307cd2a" target="_blank"><img  src="includes/logoempesa/zippy.jpg" onError="this.onerror=null;this.style.visibility = 'hidden';" width="90px"></a></div>
+</div>
+
+
+
+ 
+	 Formación online especializada en moda<br/><a href="http://www.afashionmix.com/cursoinglesmoda/">
+	 <img  id="promocurso" src="../images/cursoingproemp.jpg"   border="0"/></a> 
+</div>
+<!-- Fin Promos Bot  --> 
+
+
+
+</div>     <!-- ofertasempleo  -->     
+
+
+ 
+  <div style="clear:both; marginp:15px 5% 5px 5%; padding:10px; width:90%"><span style="font-family:Verdana, Geneva, sans-serif; font-size:10px; color: #666; text-decoration:none; font-weight:normal;"> Nota: A Fashion Mix agrega información sobre ofertas de empleo, por ello, no se hace responsable de los contenidos ni de las actuaciones de las empresas contratantes. Algunas vacantes pueden estar cerradas antes de que las eliminemos de nuestro sistema. <a href="../conduso.php" style="color:#666; text-decoration:none">Más información</a></span>
+</div>
+    </div>
+
+<div id="pie"> <div style="padding:20px 0px 80px 0px; text-align:center; clear:both; font-size:14px; font-family: 'Open Sans', sans-serif;color: #666; font-weight:lighter">
+
+<a href="http://www.afashionmix.com/conduso.php" style="padding: 5px;text-decoration: none;" ><u>A Fashion Mix</u></a>
+
+<a href="http://www.afashionmix.com/conduso.php" style="padding: 5px;text-decoration: none;">Condiciones generales</a>
+
+<a href="http://www.afashionmix.com/micuenta/contacto.php" style="padding: 5px;text-decoration: none;">Contacto</a>
+<br/>
+<a href="http://twitter.com/TrabajosenModa" style="color:#34baa2;text-decoration:none; maring:5px" target="_blank">
+<img src="http://www.afashionmix.com/includes/twlogoemail.jpg" hspace="5" border="0" align="absmiddle" vspace="5" /> </a>
+
+<a href="https://www.facebook.com/TrabajoenModa" style="color:#34baa2;text-decoration:none" target="_blank">
+<img src="http://www.afashionmix.com/includes/fblogoemail.jpg"  hspace="5" border="0" align="absmiddle"  vspace="5"/> </a>
+
+<a href="http://www.linkedin.com/groups?gid=4132232" style="color:#34baa2;text-decoration:none " target="_blank">
+<img src="http://www.afashionmix.com/includes/lklogoemail.jpg" hspace="5" border="0" align="absmiddle"  vspace="5" /> </a>
+
+</div>
+
+ <STYLE type="text/css">
+   #piecommnet {padding:20px 0px 20px 0px;font-size:20px;font-family: 'Open Sans', sans-serif;color:#FFF;text-align:center; clear:both;position: fixed;bottom: 0; background-color:#34baa2; border:1px solid #ccc;  text-decoration:underline; width: 100%; left:0px ; display:none; z-index:100;color:#fff;font-weight:lighter}
+   
+   @media only screen and (max-width: 950px) {	#piecommnet{padding:10px 0px 10px 0px;font-size:14px;}}
+   
+ </STYLE>
+<script type="text/javascript">
+$(document).scroll(function() {
+  var y = $(this).scrollTop();
+  if (y > 100) {$('.popcontact').fadeIn();} 
+});
+</script>
+
+</div>
+ 
+          
+		</div><!-- MainNoticias  -->
+	</body>
+</html>
