@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html data-env='production' lang='en' xml:lang='en'>
+<head>
+<script>
+  window.__o = {};
+  window._geo = "GB";
+  window.__domStart = (new Date().getTime())
+  window.optimizely = [["setCookieExpiration", 180]];
+  !function(){var n;return n={},window.getExperimentValue=function(e,t,u){var r,i;return i=n[e]&&null!=n[e][t]&&n[e][t]||u,null!=(r="function"==typeof i?i():void 0)?r:i},window.setExperimentValue=function(e,t,u){return n[e]||(n[e]={}),n[e][t]=u}}();
+  var adonis = adonis || {};
+  adonis.conditionalAdRendering = true;
+  adonis.transport = 'https://www.adiode.com/http';
+  adonis.scriptResources = ['c.amazon-adsystem.com/aax2/', 'js-sec.indexww.com/ht/'];
+</script>
+<title>Mashable</title>
+<link href="/assets/app-0e17902b0b96b166b3e740b9ac9ad8c4c574b76a4d2d08a4acc39625d2706cbe.css" media="screen" rel="stylesheet" />
+<link href="/assets/csshake-80cdc1aa635f1dc91a8fbac18c53dc07d1c721611e84aa90645589a5080ad334.css" media="screen" rel="stylesheet" />
+<link href="/assets/posts-6f9356644074849f4bb3a58e942086a3de646ae6235bc7bfd3f64252e520773c.css" media="all" rel="stylesheet" />
+<link href='http://feeds.mashable.com/Mashable' rel='alternate' title='Mashable' type='application/rss+xml'>
+<link href='https://mashable.com/apple-touch-icon-57x57.png?v=m2Pmw8zNwm' rel='apple-touch-icon' sizes='57x57'>
+<link href='https://mashable.com/apple-touch-icon-60x60.png?v=m2Pmw8zNwm' rel='apple-touch-icon' sizes='60x60'>
+<link href='https://mashable.com/apple-touch-icon-72x72.png?v=m2Pmw8zNwm' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://mashable.com/apple-touch-icon-76x76.png?v=m2Pmw8zNwm' rel='apple-touch-icon' sizes='76x76'>
+<link href='https://mashable.com/apple-touch-icon-114x114.png?v=m2Pmw8zNwm' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://mashable.com/apple-touch-icon-120x120.png?v=m2Pmw8zNwm' rel='apple-touch-icon' sizes='120x120'>
+<link href='https://mashable.com/apple-touch-icon-144x144.png?v=m2Pmw8zNwm' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://mashable.com/apple-touch-icon-152x152.png?v=m2Pmw8zNwm' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://mashable.com/apple-touch-icon-180x180.png?v=m2Pmw8zNwm' rel='apple-touch-icon' sizes='180x180'>
+<link href='https://mashable.com/favicon-32x32.png?v=m2Pmw8zNwm' rel='icon' sizes='32x32' type='image/png'>
+<link href='https://mashable.com/android-chrome-192x192.png?v=m2Pmw8zNwm' rel='icon' sizes='192x192' type='image/png'>
+<link href='https://mashable.com/favicon-96x96.png?v=m2Pmw8zNwm' rel='icon' sizes='96x96' type='image/png'>
+<link href='https://mashable.com/favicon-16x16.png?v=m2Pmw8zNwm' rel='icon' sizes='16x16' type='image/png'>
+<link href='https://mashable.com/manifest.json?v=m2Pmw8zNwm' rel='manifest'>
+<link href='https://mashable.com/favicon.ico?v=m2Pmw8zNwm' rel='shortcut icon'>
+<link href='https://mashable.com/assets/mashable.touchicon-6abd9c967eedf322db0168acf7bc0e472358718072f6b0b916dd5ce982f8e2e8.png' rel='apple-touch-icon-precomposed'>
+
+<meta content='no' name='apple-mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1.0' name='viewport'>
+<meta content='#da532c' name='msapplication-TileColor'>
+<meta content='/mstile-144x144.png?v=m2Pmw8zNwm' name='msapplication-TileImage'>
+<meta content='#ffffff' name='theme-color'>
+<meta content='mid:12105681' name='linkedin:owner'>
+<meta content='122071082108' property='fb:app_id'>
+<meta content='18807449704' property='fb:page_id'>
+<meta content='nYmtX7H2sSCkK8gHpQGxr7Es2526DgUaqb6PGYSX' name='readability-verification'>
+<meta content='ISmVjY0eCaVFwlI2F32P2rGooLW0ZJi4tAbKmMAapzM' name='google-site-verification'>
+
+<link data-page-subject="true" href="https://mashable.com/" rel="canonical" /><meta content="https://mashable.com/" data-page-subject="true" property="og:url" /><meta content="Mashable" data-page-subject="true" property="og:title" /><meta content="website" data-page-subject="true" property="og:type" /><meta content="Mashable" data-page-subject="true" property="og:site_name" /><meta content="Mashable is a global, multi-platform media and entertainment company." data-page-subject="true" property="og:description" /><meta content="Mashable is a global, multi-platform media and entertainment company." data-page-subject="true" name="description" /><script type="application/ld+json">{"@context":"https://schema.org","headline":"Mashable","articleBody":null,"url":"https://mashable.com/","@type":"Webpage"}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Mashable","url":"https://mashable.com","potentialAction":{"@type":"SearchAction","target":"https://www.mashable.com/search/?query={search_term_string}","query-input":"required name=search_term_string"},"logo":{"@type":"ImageObject","url":"/assets/mashable-publisher-logo-d1800cc5b71606b40182307b4f7158b5dbb17dee6b9c4b612a40c0be40c60bbc.png","width":"357","height":"60"},"sameAs":["https://www.facebook.com/mashable/","https://twitter.com/mashable","https://www.pinterest.com/mashable/","https://www.youtube.com/user/mashable"]}</script><meta content="{&quot;page&quot;:1,&quot;omnitureData&quot;:{}}" name="parsely-metadata" /><meta content="{&quot;analyticData&quot;:{&quot;siteSection&quot;:&quot;home&quot;,&quot;contentType&quot;:&quot;Channel&quot;,&quot;template&quot;:&quot;channel&quot;,&quot;topLevelChannel&quot;:&quot;home&quot;}}" name="analytic-metadata" /><meta content="500945955060" property="fb:pages" /><meta content="783687755045531" property="fb:pages" /><meta content="1588247311398272" property="fb:pages" /><meta content="509566152532329" property="fb:pages" /><meta content="1598012253812197" property="fb:pages" /><meta content="335422937918" property="fb:pages" /><meta content="340410803690" property="fb:pages" /><meta content="10150118108915437" property="fb:pages" /><meta content="1705722619660593" property="fb:pages" /><meta content="1540370916252268" property="fb:pages" /><meta content="597623103592762" property="fb:pages" /><meta content="320998960486" property="fb:pages" /><meta content="1890822731197902" property="fb:pages" /><meta content="1612601102326559" property="fb:pages" /><meta content="1433510483565957" property="fb:pages" /><meta content="139498499419544" property="fb:pages" /><meta content="282071091819646" property="fb:pages" /><meta content="18807449704" property="fb:pages" /><meta content="315957273077" property="fb:pages" /><meta content="108273123135" property="fb:pages" /><meta content="356739731067762" property="fb:pages" />
+
+<script src="https://g.mashable.com/mashable.js?geo=&url=https%3A//mashable.com/" type="text/javascript" async="true"></script>
+<link rel="alternate" hreflang="en-ae" href="https://me.mashable.com/" />
+<link rel="alternate" hreflang="en-in" href="https://in.mashable.com/" />
+<link rel="alternate" hreflang="en-my" href="https://sea.mashable.com/" />
+<link rel="alternate" hreflang="en-pk" href="https://pk.mashable.com/" />
+<link rel="alternate" hreflang="en-sg" href="https://sea.mashable.com/" />
+<link rel="alternate" hreflang="en-us" href="https://mashable.com/" />
+<link rel="alternate" hreflang="it" href="https://it.mashable.com/" />
+<link rel="alternate" hreflang="nl" href="https://nl.mashable.com/" />
+<link rel="alternate" hreflang="x-default" href="https://mashable.com/" />
+
+
+<link as='font' href='https://mashable.com/assets/mashicons-webfont-c9726252de633f6d0b9268138da18cf9a5f87976d6d9dc3d5e387800e36a64ae.woff' rel='preload'>
+<script debug="false" defer="defer" src="/assets/advertisement-05dc9dd632adb4df020fc426e931cbf5c678486fac51ea65ff563a9f577dc7bc.js"></script>
+<script debug="false" defer="defer" src="/assets/templates-6bd4913081d7f430e551b18f1ece870611f1117e7c76116db9ecac30906ae260.js"></script>
+<script defer="defer" src="/assets/app-311134db58c58c3b6faa14c5b6c636ab80203f169de91c1d9449c3a1507b9384.js"></script>
+<script>
+  (function(d) {
+    var e = d.createElement('script');
+    e.src = d.location.protocol + '//tag.bounceexchange.com/3441/i.js';
+    e.async = true;
+    d.getElementsByTagName("head")[0].appendChild(e);
+  }(document));
+</script>
+<script async='async' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js' type='text/javascript'></script>
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    var OneSignal = window.OneSignal || [];
+    mashKit.gdpr.trackerFactory(function() {
+      function initOneSignal() {
+        OneSignal.push(function () {
+          OneSignal.init({ appId: "bb9dd396-47e2-47c6-a971-56482269a79b" });
+        });
+      }
+      var number = 1;var checkForBxInterval = setInterval(function() {
+        if (document.querySelector('.bxc.bx-base.bx-impress') === null || number == 5) {
+          clearInterval(checkForBxInterval);
+          initOneSignal();
+        } else {
+          number += 1;
+        }
+      }, 5000);
+    }).render();
+  });
+</script>
+<script defer src='//tru.am/scripts/custom/ziffmedia.js'></script>
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6036202" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+    s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+<img src='https://sb.scorecardresearch.com/p?c1=2&amp;c2=6036202&amp;cv=2.0&amp;cj=1'>
+</noscript>
+<script>
+  (function(w,d) {
+    w.kwa || (w.kwa = function() {
+      (w.kwa.q = w.kwa.q || []).push(arguments);
+    });
+    se = d.createElement('script'),
+    fs = d.scripts[0];
+    se.src = '//cdn.keywee.co/dist/analytics.min.js';
+    fs.parentNode.insertBefore(se,fs)
+  }(window, document));
+  kwa('initialize',1010);
+</script>
+<script async='async' src='//script.crazyegg.com/pages/scripts/0010/4648.js'></script>
+
+
+</head>
+<body class='body_posts body_index' data-jsid='posts/index' data-sec0='home' data-sec1='index' viewport='fixed'>
+<script src='https://cdn.static.zdbb.net/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js' type='text/javascript'></script>
+<script async='true' src='https://cdn.ziffstatic.com/jst/zdconsent.js' type='text/javascript'></script>
+<noscript>
+<img alt='ZDBB' height='1' src='https://zdbb.net/l/z0WVjCBSEeGLoxIxOQVEwQ' style='display: none;' width='1'>
+</noscript>
+
+<header id='flyout-container'></header>
+<div id='peek'>
+<div id='sticky'>
+<div class='cookie-notice'>
+<div class='wrap'>
+We're using cookies to improve your experience.
+<a class="cta" href="/cookie-policy/">Find out more.</a>
+<div class='dismiss'></div>
+</div>
+</div>
+
+
+<header id='site-header'><div class='navbar'>
+<div class='navbar-inner'><ul class='gb inline js-campaign-analytics main-menu nav'>
+<li class='menu'><a class='icon-reorder' href='#'>
+<span class='hidden-description'>
+Hidden main menu item
+</span>
+</a></li>
+<li class='gb logo'><a class='brand' data-turbo-target='body-container' href='/?geo=GB'><span>Mashable</span>
+<img alt="Header logo.v2.gb b70124fa0d2e2df68743261c3e89a3120e651523359977c2741008850a89120f" class="light" loading="lazy" src="/assets/header_logo.v2.gb-b70124fa0d2e2df68743261c3e89a3120e651523359977c2741008850a89120f.png" /></a></li>
+<li class='' data-channel='Mental Health' data-tags=''><a data-campaign="mash-prod-nav-ch" href="/series/social-good/">Mental Health</a></li>
+<li class='collapsable channel submenu' data-channel='Entertainment' data-tags='movies,gaming,television'><a data-campaign="mash-prod-nav-ch" href="/entertainment/">Entertainment</a><div class='submenu-content js-campaign-analytics'>
+<div>
+<div class='page-container'>
+<ul class='channels'>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Movies" data-cid="nav-sub" data-tag="movies" href="/category/movies/">Movies</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Gaming" data-cid="nav-sub" data-tag="gaming" href="/category/gaming/">Gaming</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Television" data-cid="nav-sub" data-tag="television" href="/category/television/">Television</a>
+</li>
+</ul>
+</div>
+</div>
+</div></li>
+<li class='collapsable channel submenu' data-channel='Culture' data-tags='web-culture,sex,celebrities,memes,parenting,social-media'><a data-campaign="mash-prod-nav-ch" href="/culture/">Culture</a><div class='submenu-content js-campaign-analytics'>
+<div>
+<div class='page-container'>
+<ul class='channels'>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Web Culture" data-cid="nav-sub" data-tag="web-culture" href="/category/web-culture/">Web Culture</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Sex &amp; Relationships" data-cid="nav-sub" data-tag="sex" href="/category/sex/">Sex &amp; Relationships</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Celebrities" data-cid="nav-sub" data-tag="celebrities" href="/category/celebrities/">Celebrities</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Memes" data-cid="nav-sub" data-tag="memes" href="/category/memes/">Memes</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Parenting" data-cid="nav-sub" data-tag="parenting" href="/category/parenting/">Parenting</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Social Media" data-cid="nav-sub" data-tag="social-media" href="/category/social-media/">Social Media</a>
+</li>
+</ul>
+</div>
+</div>
+</div></li>
+<li class='collapsable channel submenu' data-channel='Tech' data-tags='business,apps,gadgets,reviews,mobile,smart-home,how-to,mashable-choice'><a data-campaign="mash-prod-nav-ch" href="/tech/">Tech</a><div class='submenu-content js-campaign-analytics'>
+<div>
+<div class='page-container'>
+<ul class='channels'>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Business" data-cid="nav-sub" data-tag="business" href="/business/">Business</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Apps" data-cid="nav-sub" data-tag="apps" href="/category/apps/">Apps</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Gadgets" data-cid="nav-sub" data-tag="gadgets" href="/category/gadgets/">Gadgets</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Reviews" data-cid="nav-sub" data-tag="reviews" href="/category/reviews/">Reviews</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Mobile" data-cid="nav-sub" data-tag="mobile" href="/category/mobile/">Mobile</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Smart Home" data-cid="nav-sub" data-tag="smart-home" href="/category/smart-home/">Smart Home</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="How To" data-cid="nav-sub" data-tag="how-to" href="/category/how-to/">How To</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Mashable Choice" data-cid="nav-sub" data-tag="mashable-choice" href="/category/mashable-choice/">Mashable Choice</a>
+</li>
+</ul>
+</div>
+</div>
+</div></li>
+<li class='collapsable channel submenu' data-channel='Science' data-tags='climate,space'><a data-campaign="mash-prod-nav-ch" href="/science/">Science</a><div class='submenu-content js-campaign-analytics'>
+<div>
+<div class='page-container'>
+<ul class='channels'>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Climate" data-cid="nav-sub" data-tag="climate" href="/category/climate/">Climate</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Space" data-cid="nav-sub" data-tag="space" href="/category/space/">Space</a>
+</li>
+</ul>
+</div>
+</div>
+</div></li>
+<li class='collapsable channel submenu' data-channel='Social Good' data-tags='lgbtq,feminism,gender-equality,activism,charity'><a data-campaign="mash-prod-nav-ch" href="/social-good/">Social Good</a><div class='submenu-content js-campaign-analytics'>
+<div>
+<div class='page-container'>
+<ul class='channels'>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="LGBTQ" data-cid="nav-sub" data-tag="lgbtq" href="/category/lgbtq/">LGBTQ</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Feminism" data-cid="nav-sub" data-tag="feminism" href="/category/feminism/">Feminism</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Gender Equality" data-cid="nav-sub" data-tag="gender-equality" href="/category/gender-equality/">Gender Equality</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Activism" data-cid="nav-sub" data-tag="activism" href="/category/activism/">Activism</a>
+</li>
+<li>
+<a class="subnav-channel" data-campaign="mash-prod-nav-sub" data-category="Non-profits" data-cid="nav-sub" data-tag="charity" href="/category/charity/">Non-profits</a>
+</li>
+</ul>
+</div>
+</div>
+</div></li>
+<li class='' data-channel='AMPLIFY' data-tags=''><a data-campaign="mash-prod-nav-ch" href="/series/amplify/">AMPLIFY</a></li>
+<li class='submenu shopping'><a href='/category/mashable-shopping'><!-- %span=t "header.nav.shopping" -->
+<span>Shop</span></a>
+<div class='submenu-content'>
+<div class='page-container'>
+<ul class='columns'><li><ul class='column-list'>
+<li class='header'><a href="/category/tech">Tech</a></li><li><a href="/category/vpn/">VPN</a></li><li><a href="/category/headphones/">Headphones</a></li><li><a href="/category/speakers/">Speakers</a></li><li><a href="/category/laptops/">Laptops</a></li><li><a href="/category/web-hosting/">Web Hosting</a></li><li><a href="/category/antivirus/">Antivirus</a></li></ul></li><li><ul class='column-list'>
+<li class='header'><a href="/category/lifestyle">Lifestyle</a></li><li><a href="/category/home/">Home</a></li><li><a href="/category/kitchen/">Kitchen</a></li><li><a href="/category/gift-guide/">Gift Guides</a></li><li><a href="/category/gaming/">Gaming</a></li></ul></li><li><ul class='column-list'>
+<li class='header'><a href="/category/culture">Culture</a></li><li><a href="/category/dating/">Dating</a></li><li><a href="/category/pets/">Pets</a></li><li><a href="/category/subscription-boxes/">Subscription Boxes</a></li><li><a href="/series/carry-on/">Carry On</a></li></ul></li><li><ul class='column-list'>
+<li class='header'><a href="/category/tech">Best of Tech</a></li><li><a href="/2018/05/23/best-vpns-on-reddit-pia-purevpn-expressvpn">Best VPN</a></li><li><a href="/2018/05/31/best-cheap-vpn-services">Best Cheap VPN</a></li><li><a href="/roundup/best-tv-streaming-services-directv-hulu-sling">Best Streaming Services</a></li><li><a href="/roundup/best-cheap-laptops-under-500">Best Cheap Laptops</a></li><li><a href="/roundup/best-headphones-for-running">Best Running Headphones</a></li><li><a href="/roundup/best-bluetooth-speakers">Best Bluetooth Speakers</a></li></ul></li><li><ul class='column-list'>
+<li class='header'><a href="/category/culture">Best of Culture</a></li><li><a href="/roundup/best-dating-sites">Best Dating Sites</a></li><li><a href="/roundup/best-free-dating-sites-apps-hinge-tinder-okcupid">Best Free Dating Sites</a></li><li><a href="/roundup/best-dating-sites-for-introverts">Best Dating Sites for Introverts</a></li><li><a href="/roundup/which-dna-test-is-best-ancestry-23-and-me">Best DNA Tests</a></li><li><a href="/roundup/best-dog-dna-tests">Best Dog DNA Tests</a></li><li><a href="/roundup/best-subscription-boxes">Best Subscription Boxes</a></li></ul></li><li><ul class='column-list'>
+<li class='header'><a href="/category/lifestyle">Best of Lifestyle</a></li><li><a href="/roundup/best-air-fryers">Best Airfryer</a></li><li><a href="/roundup/best-cordless-vacuums">Best Cordless Vacuum</a></li><li><a href="/2018/01/24/best-instant-pot-to-buy-recipes-deals-amazon">Best Instant Pot</a></li><li><a href="/gifts/best-gifts-under-50-dollars">Best Gifts Under $50</a></li><li><a href="/roundup/best-robot-vacuums">Best Robot Vacuums</a></li><li><a href="/roundup/best-vacuums-for-pet-hair">Best Vacuum for Pet Hair</a></li></ul></li></ul>
+</div>
+</div></li>
+<li class='sign-in submenu collapsable pull-right'><a aria-label='Sign In' href='/login/'><span>Sign in</span></a></li>
+<li class='follow submenu follow-menu pull-right'><a data-dnt='true' data-show-count='true' data-show-screen-name='false' href='https://twitter.com/mashable'>
+<span class='tw'></span>
+</a></li>
+<li class='follow submenu follow-menu pull-right'><a data-default='1' href='https://facebook.com/mashable'>
+<span class='fb'></span>
+</a></li>
+<li class='nav-search submenu pull-right'><a class='search-trigger' href='/search/'>Search</a>
+<div class='dropdown-content'>
+<div class='page-container'>
+<div class='header-search-form'>
+<form accept-charset="UTF-8" action="/search/" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div><div class='ie-search-wrapper'><input autocomplete="off" class="header-search" id="" name="q" title="Search" type="text" value="" /></div>
+<input class="btn btn-primary header-search-submit" name="commit" type="submit" value="Search" />
+</form><div class='header-search-results'></div>
+</div>
+</div>
+</div></li>
+<li class='submenu more'><a href='#'><!-- %span=t "header.nav.more" -->
+<span>More</span></a>
+<div class='submenu-content'>
+<div class='page-container'>
+<ul class='columns'><li><ul class='column-list'><li class='header'>Channels</li>
+<li><a href="/series/social-good/">Mental Health</a></li><li><a href="/entertainment/">Entertainment</a></li><li><a href="/culture/">Culture</a></li><li><a href="/tech/">Tech</a></li><li><a href="/science/">Science</a></li><li><a href="/social-good/">Social Good</a></li><li><a href="/series/amplify/">AMPLIFY</a></li></ul></li><li><ul class='column-list'>
+<li class='header'>Company</li><li><a href="/mashable-staff-masthead/">Masthead</a></li><li><a href="mailto:brand_licensing@ziffdavis.com?subject=Mashable%20Licensing%20Inquiry">Licensing &amp; Reprints</a></li><li><a href="/2019/">Archive</a></li><li><a href="https://www.j2global.com/careers/jobs/?brand=Mashable">Mashable Careers</a></li></ul></li><li><ul class='column-list'>
+<li class='header'>Contact</li><li><a href="/contact-us/">Contact Us</a></li><li><a href="/submit/">Submit News</a></li><li><a href="https://t.yesware.com/tt/71b30593224daffd090ea9e6e9a481b97a93a23e/6192469e5a936fed0f85e635cbb1d635/d7b076cb4f776b359888a0adc1e8ea67/support.stackcommerce.com/hc/en-us/requests/new?persona=Internet+Culture&amp;publisher_id=273&amp;publisher_logo=https%3A%2F%2Fcdnp1.stackassets.com%2Ffe11f98bd7119dad30cf34c37f61e214dc6e61c3%2Fstore%2Ff21e674c706b34333b2a7e45fc05ab8d85be251e7409bd9035d60e3e7f10%2FMashable_Web.png&amp;source=lower+footer+contact+link">Mashable Shop</a></li></ul></li><li><ul class='column-list'>
+<li class='header'>Advertise</li><li><a href="/advertise/">Advertise</a></li><li><a href="javascript:window.zdconsent.showConsentTool()">AdChoices</a></li></ul></li><li><ul class='column-list'>
+<li class='header'>Legal</li><li><a href="/privacy/">Privacy Policy</a></li><li><a href="/terms/">Terms of Use</a></li><li><a href="/cookie-policy/">Cookie Policy</a></li><li><a href="/accessibility-statement/">Accessibility Statement</a></li><li><a href="/ccpa/">Do Not Sell My Personal Information</a></li></ul></li><li><ul class='column-list'>
+<li class='header'>Resources</li><li><a href="/category/travel/">Travel</a></li><li><a href="/category/security/">Security</a></li><li><a href="/category/how-to/">How To</a></li><li><a href="/category/mashable-shopping/">Mashable Deals</a></li><li><a href="/category/gift-guides/">Gift Guides</a></li></ul></li><li><ul class='column-list'>
+<li class='header'>Sites</li><li><a href="http://jobs.mashable.com">Job Board</a></li><li><a href="/sgs/">Social Good Summit</a></li></ul></li><li><ul class='column-list'>
+<li class='header'>International</li>
+<div class='geos-content'>
+<li>
+<a class='geo' href='https://mashable.com?geo=US&amp;utm_source=internal&amp;utm_medium=onsite' onclick='$.cookie(&quot;geo&quot;,&quot;US&quot;)'>Mashable</a>
+</li>
+<li>
+<a class='geo' href='https://mashable.com?geo=AU&amp;utm_source=internal&amp;utm_medium=onsite' onclick='$.cookie(&quot;geo&quot;,&quot;AU&quot;)'>Mashable Australia</a>
+</li>
+<li>
+<a class='geo' href='https://nl.mashable.com'>Mashable Benelux</a>
+</li>
+<li>
+<a class='geo' href='https://in.mashable.com?geo=IN&amp;utm_source=internal&amp;utm_medium=onsite' onclick='$.cookie(&quot;geo&quot;,&quot;IN&quot;)'>Mashable India</a>
+</li>
+<li>
+<a class='geo' href='https://it.mashable.com'>Mashable Italia</a>
+</li>
+<li>
+<a class='geo' href='https://me.mashable.com?geo=ME&amp;utm_source=internal&amp;utm_medium=onsite' onclick='$.cookie(&quot;geo&quot;,&quot;ME&quot;)'>Mashable ME</a>
+</li>
+<li>
+<a class='geo' href='https://pk.mashable.com'>Mashable Pakistan</a>
+</li>
+<li>
+<a class='geo' href='https://sea.mashable.com?geo=SEA&amp;utm_source=internal&amp;utm_medium=onsite' onclick='$.cookie(&quot;geo&quot;,&quot;SEA&quot;)'>Mashable SE Asia</a>
+</li>
+</div>
+</ul></li></ul>
+</div>
+</div></li>
+</ul></div>
+</div>
+<div id='sticky-slot'></div></header>
+</div>
+<div id='scrollable'><div class='loader'></div>
+<div id='srvSlot1' style='position: absolute'><div class="ad_container ad-slot" data-overrides="{&quot;targeting&quot;:{&quot;tile&quot;:1,&quot;adnum&quot;:1,&quot;sec0&quot;:&quot;home&quot;,&quot;sec1&quot;:&quot;index&quot;,&quot;oop_type&quot;:&quot;masthead&quot;}}" data-type="survey"></div></div>
+<div id='srvSlot2' style='position: absolute'><div class="ad_container ad-slot" data-overrides="{&quot;targeting&quot;:{&quot;tile&quot;:2,&quot;adnum&quot;:2,&quot;sec0&quot;:&quot;home&quot;,&quot;sec1&quot;:&quot;index&quot;,&quot;oop_type&quot;:&quot;stitials&quot;}}" data-type="survey"></div></div>
+<div id='srvSlot3' style='position: absolute'><div class="ad_container ad-slot" data-overrides="{&quot;targeting&quot;:{&quot;tile&quot;:3,&quot;adnum&quot;:3,&quot;sec0&quot;:&quot;home&quot;,&quot;sec1&quot;:&quot;index&quot;,&quot;oop_type&quot;:&quot;skin&quot;}}" data-type="survey"></div></div>
+<div id='srvSlot4' style='position: absolute'><div class="ad_container ad-slot" data-overrides="{&quot;targeting&quot;:{&quot;tile&quot;:4,&quot;adnum&quot;:4,&quot;sec0&quot;:&quot;home&quot;,&quot;sec1&quot;:&quot;index&quot;,&quot;oop_type&quot;:&quot;footer&quot;}}" data-type="survey"></div></div>
+<div id='srvSlot5' style='position: absolute'><div class="ad_container ad-slot" data-overrides="{&quot;targeting&quot;:{&quot;tile&quot;:5,&quot;adnum&quot;:5,&quot;sec0&quot;:&quot;home&quot;,&quot;sec1&quot;:&quot;index&quot;,&quot;oop_type&quot;:&quot;inpage&quot;}}" data-type="survey"></div></div>
+<div id='srvSlot6' style='position: absolute'><div class="ad_container ad-slot" data-overrides="{&quot;targeting&quot;:{&quot;tile&quot;:6,&quot;adnum&quot;:6,&quot;sec0&quot;:&quot;home&quot;,&quot;sec1&quot;:&quot;index&quot;,&quot;oop_type&quot;:&quot;inline&quot;}}" data-type="survey"></div></div>
+<div class='posts index' id='body-container'><div id='main'>
+<div class='page-container'>
+
+<div class='body'><div id='body-content'>
+<div id='highlights-section'></div>
+<div class='columns dark flex-box js-campaign-analytics stories-strip'>
+<div class='column box-cell column1' id='stories-ad'></div>
+<div class='column box-cell column2' style='text-align: center;'>
+<div class='shopstrip-head js-campaign-analytics' style='display: inline-block; vertical-align: super;'>
+<a class='column-title-link' data-campaign='hp-shopstrip' href='/category/mashable-shopping/'>
+<h2 class='shop-title'>Shop</h2>
+</a>
+</div>
+<div class='dark reels-sponsor' style='display: inline-block; margin-right:0%;'>
+</div>
+<div class='featured-editions js-campaign-analytics'>
+<a class="thumb" data-campaign="hp-shopstrip" href="https://mashable.com/shopping/sept-4-best-4k-tv-deals/"><img alt="Uploads%252fstory%252fthumbnail%252f118914%252fc9e2a5d5 a7b0 433d 96e3 6885474127cb.png%252f400x225.png?signature=iofebdlp 8khgns8jviuhfo0 9m=&amp;source=https%3a%2f%2fblueprint api production.s3.amazonaws" src="https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118914%252Fc9e2a5d5-a7b0-433d-96e3-6885474127cb.png%252F400x225.png?signature=iofebdLP-8khgns8JVIUHfo0-9M=&amp;source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com" />
+<div class='story-title-link'>Need a 4K TV? These are the best deals right now.</div>
+</a><a class="thumb" data-campaign="hp-shopstrip" href="https://mashable.com/shopping/best-labor-day-sales-2020/"><img alt="Uploads%252fcard%252fimage%252f1481674%252f40b216c7 968c 4ac6 bea2 01220cf4177a.png%252f400x225.png?signature=ajmz1dqtps80dftatjwg22errve=&amp;source=https%3a%2f%2fblueprint api production.s3.amazonaws" src="https://mondrian.mashable.com/uploads%252Fcard%252Fimage%252F1481674%252F40b216c7-968c-4ac6-bea2-01220cf4177a.png%252F400x225.png?signature=aJMz1Dqtps80dFtAtJWG22ERrvE=&amp;source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com" />
+<div class='story-title-link'>The best Labor Day sales for this weekend</div>
+</a></div>
+</div>
+<div class='column box-cell column3' style='padding-top:0px; text-align: center;'>
+<a class='column-title-link' data-campaign='hp-videostrip' href='/videos/' style='display: inline-block;'>
+<h2 style='margin-top:18px;'>Watch</h2>
+</a>
+<div class='featured-videos js-campaign-analytics' style='margin-top:27.5px'>
+<div class='video'>
+<a class="thumb" data-campaign="hp-videostrip" href="https://mashable.com/video/the-dominance-of-chaos-algorithms/" onclick="sessionStorage.setItem(&#39;autoplayVideo&#39;, 1);"><img alt="2020%252f09%252f04%252f3e%252fdedce5f1aaf5413ba21ef1b16c140a3c.25609.png%252f400x225" src="https://mondrian.mashable.com/2020%252F09%252F04%252F3e%252Fdedce5f1aaf5413ba21ef1b16c140a3c.25609.png%252F400x225.png?signature=Wr29NL4uvsaCJt3FpVqVWB5PWPI=" />
+<div class='play-btn'></div>
+<span class='title-link'>
+Why chaos prevents us from predicting the weather
+</span>
+</a></div>
+<div class='video'>
+<a class="thumb" data-campaign="hp-videostrip" href="https://mashable.com/video/tenet-nolan-theories/" onclick="sessionStorage.setItem(&#39;autoplayVideo&#39;, 1);"><img alt="2020%252f09%252f02%252fe2%252f173e9aa7391f449dace76bac9f152ee1.eb055.png%252f400x225" src="https://mondrian.mashable.com/2020%252F09%252F02%252Fe2%252F173e9aa7391f449dace76bac9f152ee1.eb055.png%252F400x225.png?signature=_1fvwPVKpGTbRyWHSmLV9Q5aegY=" />
+<div class='play-btn'></div>
+<span class='title-link'>
+John David Washington reacts to Christopher Nolan movie fan theories
+</span>
+</a></div>
+<div class='video'>
+<a class="thumb" data-campaign="hp-videostrip" href="https://mashable.com/video/this-is-how-algorithms-work/" onclick="sessionStorage.setItem(&#39;autoplayVideo&#39;, 1);"><img alt="2020%252f09%252f03%252ffe%252fe6a9c2ade1254ab59e99cca6daa10c66.ecfc2.png%252f400x225" src="https://mondrian.mashable.com/2020%252F09%252F03%252Ffe%252Fe6a9c2ade1254ab59e99cca6daa10c66.ecfc2.png%252F400x225.png?signature=Ue3G19dcI2P4IHMiDCWufmEUVS8=" />
+<div class='play-btn'></div>
+<span class='title-link'>
+How algorithms work
+</span>
+</a></div>
+</div>
+</div>
+</div>
+
+<div class='fixable-wrapper' id='column-headers'>
+<div class='column-headers'>
+<div class='headers'>
+<div class='header header1'><a data-short='New' href='#'>
+<em>What&#39;s New</em>
+</a></div>
+<div class='header header2'><a data-short='Rising' href='#'>
+<em>What&#39;s Rising</em>
+</a></div>
+<div class='header header3'><a data-short='Hot' href='#'>
+<em>What&#39;s Hot</em>
+</a></div>
+</div>
+</div>
+</div>
+<div class='slide-window'>
+<div class='flex-box columns'><section class='column box-cell new-stories waypoint column1' data-fixselector='header.fixable' data-key='new' id='column-new'><h1 class='semantic'>What&#39;s New</h1></section><section class='column box-cell hot-stories waypoint column2' data-fixselector='header.fixable' data-key='rising' id='column-rising'><h1 class='semantic'>What&#39;s Rising</h1></section><section class='column box-cell big-stories waypoint column3' data-fixselector='header.fixable' data-key='hot' id='column-hot'><h1 class='semantic'>What&#39;s Hot</h1></section></div>
+</div>
+</div>
+<noscript>
+<div class='posts archive'>
+<div class='wrapper dates'>
+<ul class='archive-year'>
+<li>
+<a href="/2005/">2005</a>
+<ul class='archive-month'>
+<li><a href="/2005/01/">Jan</a></li>
+<li><a href="/2005/02/">Feb</a></li>
+<li><a href="/2005/03/">Mar</a></li>
+<li><a href="/2005/04/">Apr</a></li>
+<li><a href="/2005/05/">May</a></li>
+<li><a href="/2005/06/">Jun</a></li>
+<li><a href="/2005/07/">Jul</a></li>
+<li><a href="/2005/08/">Aug</a></li>
+<li><a href="/2005/09/">Sep</a></li>
+<li><a href="/2005/10/">Oct</a></li>
+<li><a href="/2005/11/">Nov</a></li>
+<li><a href="/2005/12/">Dec</a></li>
+</ul>
+</li>
+<li>
+<a href="/2006/">2006</a>
+<ul class='archive-month'>
+<li><a href="/2006/01/">Jan</a></li>
+<li><a href="/2006/02/">Feb</a></li>
+<li><a href="/2006/03/">Mar</a></li>
+<li><a href="/2006/04/">Apr</a></li>
+<li><a href="/2006/05/">May</a></li>
+<li><a href="/2006/06/">Jun</a></li>
+<li><a href="/2006/07/">Jul</a></li>
+<li><a href="/2006/08/">Aug</a></li>
+<li><a href="/2006/09/">Sep</a></li>
+<li><a href="/2006/10/">Oct</a></li>
+<li><a href="/2006/11/">Nov</a></li>
+<li><a href="/2006/12/">Dec</a></li>
+</ul>
+</li>
+<li>
+<a href="/2007/">2007</a>
+<ul class='archive-month'>
+<li><a href="/2007/01/">Jan</a></li>
+<li><a href="/2007/02/">Feb</a></li>
+<li><a href="/2007/03/">Mar</a></li>
+<li><a href="/2007/04/">Apr</a></li>
+<li><a href="/2007/05/">May</a></li>
+<li><a href="/2007/06/">Jun</a></li>
+<li><a href="/2007/07/">Jul</a></li>
+<li><a href="/2007/08/">Aug</a></li>
+<li><a href="/2007/09/">Sep</a></li>
+<li><a href="/2007/10/">Oct</a></li>
+<li><a href="/2007/11/">Nov</a></li>
+<li><a href="/2007/12/">Dec</a></li>
+</ul>
+</li>
+<li>
+<a href="/2008/">2008</a>
+<ul class='archive-month'>
+<li><a href="/2008/01/">Jan</a></li>
+<li><a href="/2008/02/">Feb</a></li>
+<li><a href="/2008/03/">Mar</a></li>
+<li><a href="/2008/04/">Apr</a></li>
+<li><a href="/2008/05/">May</a></li>
+<li><a href="/2008/06/">Jun</a></li>
+<li><a href="/2008/07/">Jul</a></li>
+<li><a href="/2008/08/">Aug</a></li>
+<li><a href="/2008/09/">Sep</a></li>
+<li><a href="/2008/10/">Oct</a></li>
+<li><a href="/2008/11/">Nov</a></li>
+<li><a href="/2008/12/">Dec</a></li>
+</ul>
+</li>
+<li>
+<a href="/2009/">2009</a>
+<ul class='archive-month'>
+<li><a href="/2009/01/">Jan</a></li>
+<li><a href="/2009/02/">Feb</a></li>
+<li><a href="/2009/03/">Mar</a></li>
+<li><a href="/2009/04/">Apr</a></li>
+<li><a href="/2009/05/">May</a></li>
+<li><a href="/2009/06/">Jun</a></li>
+<li><a href="/2009/07/">Jul</a></li>
+<li><a href="/2009/08/">Aug</a></li>
+<li><a href="/2009/09/">Sep</a></li>
+<li><a href="/2009/10/">Oct</a></li>
+<li><a href="/2009/11/">Nov</a></li>
+<li><a href="/2009/12/">Dec</a></li>
+</ul>
+</li>
+<li>
+<a href="/2010/">2010</a>
+<ul class='archive-month'>
+<li><a href="/2010/01/">Jan</a></li>
+<li><a href="/2010/02/">Feb</a></li>
+<li><a href="/2010/03/">Mar</a></li>
+<li><a href="/2010/04/">Apr</a></li>
+<li><a href="/2010/05/">May</a></li>
+<li><a href="/2010/06/">Jun</a></li>
+<li><a href="/2010/07/">Jul</a></li>
+<li><a href="/2010/08/">Aug</a></li>
+<li><a href="/2010/09/">Sep</a></li>
+<li><a href="/2010/10/">Oct</a></li>
+<li><a href="/2010/11/">Nov</a></li>
+<li><a href="/2010/12/">Dec</a></li>
+</ul>
+</li>
+<li>
+<a href="/2011/">2011</a>
+<ul class='archive-month'>
+<li><a href="/2011/01/">Jan</a></li>
+<li><a href="/2011/02/">Feb</a></li>
+<li><a href="/2011/03/">Mar</a></li>
+<li><a href="/2011/04/">Apr</a></li>
+<li><a href="/2011/05/">May</a></li>
+<li><a href="/2011/06/">Jun</a></li>
+<li><a href="/2011/07/">Jul</a></li>
+<li><a href="/2011/08/">Aug</a></li>
+<li><a href="/2011/09/">Sep</a></li>
+<li><a href="/2011/10/">Oct</a></li>
+<li><a href="/2011/11/">Nov</a></li>
+<li><a href="/2011/12/">Dec</a></li>
+</ul>
+</li>
+<li>
+<a href="/2012/">2012</a>
+<ul class='archive-month'>
+<li><a href="/2012/01/">Jan</a></li>
+<li><a href="/2012/02/">Feb</a></li>
+<li><a href="/2012/03/">Mar</a></li>
+<li><a href="/2012/04/">Apr</a></li>
+<li><a href="/2012/05/">May</a></li>
+<li><a href="/2012/06/">Jun</a></li>
+<li><a href="/2012/07/">Jul</a></li>
+<li><a href="/2012/08/">Aug</a></li>
+<li><a href="/2012/09/">Sep</a></li>
+<li><a href="/2012/10/">Oct</a></li>
+<li><a href="/2012/11/">Nov</a></li>
+<li><a href="/2012/12/">Dec</a></li>
+</ul>
+</li>
+<li>
+<a href="/2013/">2013</a>
+<ul class='archive-month'>
+<li><a href="/2013/01/">Jan</a></li>
+<li><a href="/2013/02/">Feb</a></li>
+<li><a href="/2013/03/">Mar</a></li>
+<li><a href="/2013/04/">Apr</a></li>
+<li><a href="/2013/05/">May</a></li>
+<li><a href="/2013/06/">Jun</a></li>
+<li><a href="/2013/07/">Jul</a></li>
+<li><a href="/2013/08/">Aug</a></li>
+<li><a href="/2013/09/">Sep</a></li>
+<li><a href="/2013/10/">Oct</a></li>
+<li><a href="/2013/11/">Nov</a></li>
+<li><a href="/2013/12/">Dec</a></li>
+</ul>
+</li>
+<li>
+<a href="/2014/">2014</a>
+<ul class='archive-month'>
+<li><a href="/2014/01/">Jan</a></li>
+<li><a href="/2014/02/">Feb</a></li>
+<li><a href="/2014/03/">Mar</a></li>
+<li><a href="/2014/04/">Apr</a></li>
+<li><a href="/2014/05/">May</a></li>
+<li><a href="/2014/06/">Jun</a></li>
+<li><a href="/2014/07/">Jul</a></li>
+<li><a href="/2014/08/">Aug</a></li>
+<li><a href="/2014/09/">Sep</a></li>
+<li><a href="/2014/10/">Oct</a></li>
+<li><a href="/2014/11/">Nov</a></li>
+<li><a href="/2014/12/">Dec</a></li>
+</ul>
+</li>
+<li>
+<a href="/2015/">2015</a>
+<ul class='archive-month'>
+<li><a href="/2015/01/">Jan</a></li>
+<li><a href="/2015/02/">Feb</a></li>
+<li><a href="/2015/03/">Mar</a></li>
+<li><a href="/2015/04/">Apr</a></li>
+<li><a href="/2015/05/">May</a></li>
+<li><a href="/2015/06/">Jun</a></li>
+<li><a href="/2015/07/">Jul</a></li>
+<li><a href="/2015/08/">Aug</a></li>
+<li><a href="/2015/09/">Sep</a></li>
+<li><a href="/2015/10/">Oct</a></li>
+<li><a href="/2015/11/">Nov</a></li>
+<li><a href="/2015/12/">Dec</a></li>
+</ul>
+</li>
+<li>
+<a href="/2016/">2016</a>
+<ul class='archive-month'>
+<li><a href="/2016/01/">Jan</a></li>
+<li><a href="/2016/02/">Feb</a></li>
+<li><a href="/2016/03/">Mar</a></li>
+<li><a href="/2016/04/">Apr</a></li>
+<li><a href="/2016/05/">May</a></li>
+<li><a href="/2016/06/">Jun</a></li>
+<li><a href="/2016/07/">Jul</a></li>
+<li><a href="/2016/08/">Aug</a></li>
+<li><a href="/2016/09/">Sep</a></li>
+<li><a href="/2016/10/">Oct</a></li>
+<li><a href="/2016/11/">Nov</a></li>
+<li><a href="/2016/12/">Dec</a></li>
+</ul>
+</li>
+<li>
+<a href="/2017/">2017</a>
+<ul class='archive-month'>
+<li><a href="/2017/01/">Jan</a></li>
+<li><a href="/2017/02/">Feb</a></li>
+<li><a href="/2017/03/">Mar</a></li>
+<li><a href="/2017/04/">Apr</a></li>
+<li><a href="/2017/05/">May</a></li>
+<li><a href="/2017/06/">Jun</a></li>
+<li><a href="/2017/07/">Jul</a></li>
+<li><a href="/2017/08/">Aug</a></li>
+<li><a href="/2017/09/">Sep</a></li>
+<li><a href="/2017/10/">Oct</a></li>
+<li><a href="/2017/11/">Nov</a></li>
+<li><a href="/2017/12/">Dec</a></li>
+</ul>
+</li>
+<li>
+<a href="/2018/">2018</a>
+<ul class='archive-month'>
+<li><a href="/2018/01/">Jan</a></li>
+<li><a href="/2018/02/">Feb</a></li>
+<li><a href="/2018/03/">Mar</a></li>
+<li><a href="/2018/04/">Apr</a></li>
+<li><a href="/2018/05/">May</a></li>
+<li><a href="/2018/06/">Jun</a></li>
+<li><a href="/2018/07/">Jul</a></li>
+<li><a href="/2018/08/">Aug</a></li>
+<li><a href="/2018/09/">Sep</a></li>
+<li><a href="/2018/10/">Oct</a></li>
+<li><a href="/2018/11/">Nov</a></li>
+<li><a href="/2018/12/">Dec</a></li>
+</ul>
+</li>
+<li>
+<a href="/2019/">2019</a>
+<ul class='archive-month'>
+<li><a href="/2019/01/">Jan</a></li>
+<li><a href="/2019/02/">Feb</a></li>
+<li><a href="/2019/03/">Mar</a></li>
+<li><a href="/2019/04/">Apr</a></li>
+<li><a href="/2019/05/">May</a></li>
+<li><a href="/2019/06/">Jun</a></li>
+<li><a href="/2019/07/">Jul</a></li>
+<li><a href="/2019/08/">Aug</a></li>
+<li><a href="/2019/09/">Sep</a></li>
+<li><a href="/2019/10/">Oct</a></li>
+<li><a href="/2019/11/">Nov</a></li>
+<li><a href="/2019/12/">Dec</a></li>
+</ul>
+</li>
+<li>
+<a href="/2020/">2020</a>
+<ul class='archive-month'>
+<li><a href="/2020/01/">Jan</a></li>
+<li><a href="/2020/02/">Feb</a></li>
+<li><a href="/2020/03/">Mar</a></li>
+<li><a href="/2020/04/">Apr</a></li>
+<li><a href="/2020/05/">May</a></li>
+<li><a href="/2020/06/">Jun</a></li>
+<li><a href="/2020/07/">Jul</a></li>
+<li><a href="/2020/08/">Aug</a></li>
+<li><a href="/2020/09/">Sep</a></li>
+<li><a href="/2020/10/">Oct</a></li>
+<li><a href="/2020/11/">Nov</a></li>
+<li><a href="/2020/12/">Dec</a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+</div>
+</noscript>
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    window.postData = {}
+    window.postData["feature"] = {"params":{"title":"People are fighting algorithms for a more just and equitable future. You can, too.","image":{"height":1003,"width":1440,"src":"https://mondrian.mashable.com/uploads%252F2020%252F9%252F5%252FFighting_Algorithms_Topcat.jpg%252Ffit-in__1440x1440.jpg?signature=_swpe9Z3vcvnEvlovtKhRUG9uDQ=","id":"undefined"},"focalPoint":{"x":0,"y":0.600160256410256,"desktop":{"x":0,"y":649},"tablet":{"x":407,"y":650},"mobile":{"x":573,"y":602}},"template":"standard","color":"dark","intensity":{"desktop":0.5,"tablet":0.5,"mobile":{"bottom":0.1,"top":0.33125}},"compiledGradients":{"desktop":{"right":"linear-gradient(to right,rgba(0,0,0,0),rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 33%,rgba(0,0,0,0.6) 66%,rgba(0,0,0,0.9) 100%,rgba(0,0,0,0.9))","left":"linear-gradient(to right,rgba(0,0,0,0.9),rgba(0,0,0,0.9) 0%,rgba(0,0,0,0.6) 33%,rgba(0,0,0,0.3) 66%,rgba(0,0,0,0) 100%,rgba(0,0,0,0))"},"tablet":{"right":"linear-gradient(to right,rgba(0,0,0,0),rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 33%,rgba(0,0,0,0.6) 66%,rgba(0,0,0,0.9) 100%,rgba(0,0,0,0.9))","left":"linear-gradient(to right,rgba(0,0,0,0.9),rgba(0,0,0,0.9) 0%,rgba(0,0,0,0.6) 33%,rgba(0,0,0,0.3) 66%,rgba(0,0,0,0) 100%,rgba(0,0,0,0))"},"mobile":{"top":"rgba(0,0,0,0.6)","bottom":"linear-gradient(to top,rgba(0,0,0,0.9),rgba(0,0,0,0.6))"}},"stories":[{"link":"https://mashable.com/article/police-facial-recognition-algorithms-activism/","customChannel":"Algorithm activists","customChannelUrl":"https://mashable.com/Tech/","desktopTitle":"How to fight algorithms for a more just and equitable future","tabletTitle":"How to fight algorithms for a more just and equitable future","mobileTitle":"How to fight algorithms for a more just and equitable future"},{"link":"https://mashable.com/shopping/best-labor-day-sales-2020/","customChannel":"So many deals","customChannelUrl":"https://mashable.com/Entertainment/","desktopTitle":"Enjoy this monster list of the best Labor Day sales to shop this weekend","tabletTitle":"Enjoy this monster list of the best Labor Day sales to shop this weekend","mobileTitle":"Enjoy this monster list of the best Labor Day sales to shop this weekend"},{"link":"https://mashable.com/article/im-thinking-of-ending-things-movie-review/","customChannel":"Weekend watch","customChannelUrl":"https://mashable.com/Entertainment/","desktopTitle":"Netflix's 'I'm Thinking of Ending Things' is another dizzying triumph by Charlie Kaufman","tabletTitle":"Netflix's 'I'm Thinking of Ending Things' is another dizzying triumph by Charlie Kaufman","mobileTitle":"Netflix's 'I'm Thinking of Ending Things' is a dizzying triumph by Charlie Kaufman"},{"link":"https://mashable.com/article/what-is-selene-delgado-lopez-hoax/","customChannel":"Selene's not your friend","customChannelUrl":"https://mashable.com/Tech/","desktopTitle":"Say hello to to the latest weird viral Facebook hoax: ‘Selene Delgado Lopez’","tabletTitle":"Say hello to to the latest weird viral Facebook hoax: ‘Selene Delgado Lopez’","mobileTitle":"Say hello to to the latest weird viral Facebook hoax: ‘Selene Delgado Lopez’"}]},"published_params":{"title":"People are fighting algorithms for a more just and equitable future. You can, too.","image":{"height":1003,"width":1440,"src":"https://mondrian.mashable.com/uploads%252F2020%252F9%252F5%252FFighting_Algorithms_Topcat.jpg%252Ffit-in__1440x1440.jpg?signature=_swpe9Z3vcvnEvlovtKhRUG9uDQ=","id":"undefined"},"focalPoint":{"x":0,"y":0.600160256410256,"desktop":{"x":0,"y":649},"tablet":{"x":407,"y":650},"mobile":{"x":573,"y":602}},"template":"standard","color":"dark","intensity":{"desktop":0.5,"tablet":0.5,"mobile":{"bottom":0.1,"top":0.33125}},"compiledGradients":{"desktop":{"right":"linear-gradient(to right,rgba(0,0,0,0),rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 33%,rgba(0,0,0,0.6) 66%,rgba(0,0,0,0.9) 100%,rgba(0,0,0,0.9))","left":"linear-gradient(to right,rgba(0,0,0,0.9),rgba(0,0,0,0.9) 0%,rgba(0,0,0,0.6) 33%,rgba(0,0,0,0.3) 66%,rgba(0,0,0,0) 100%,rgba(0,0,0,0))"},"tablet":{"right":"linear-gradient(to right,rgba(0,0,0,0),rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 33%,rgba(0,0,0,0.6) 66%,rgba(0,0,0,0.9) 100%,rgba(0,0,0,0.9))","left":"linear-gradient(to right,rgba(0,0,0,0.9),rgba(0,0,0,0.9) 0%,rgba(0,0,0,0.6) 33%,rgba(0,0,0,0.3) 66%,rgba(0,0,0,0) 100%,rgba(0,0,0,0))"},"mobile":{"top":"rgba(0,0,0,0.6)","bottom":"linear-gradient(to top,rgba(0,0,0,0.9),rgba(0,0,0,0.6))"}},"stories":[{"link":"https://mashable.com/article/police-facial-recognition-algorithms-activism/","customChannel":"Algorithm activists","customChannelUrl":"https://mashable.com/Tech/","desktopTitle":"How to fight algorithms for a more just and equitable future","tabletTitle":"How to fight algorithms for a more just and equitable future","mobileTitle":"How to fight algorithms for a more just and equitable future"},{"link":"https://mashable.com/shopping/best-labor-day-sales-2020/","customChannel":"So many deals","customChannelUrl":"https://mashable.com/Entertainment/","desktopTitle":"Enjoy this monster list of the best Labor Day sales to shop this weekend","tabletTitle":"Enjoy this monster list of the best Labor Day sales to shop this weekend","mobileTitle":"Enjoy this monster list of the best Labor Day sales to shop this weekend"},{"link":"https://mashable.com/article/im-thinking-of-ending-things-movie-review/","customChannel":"Weekend watch","customChannelUrl":"https://mashable.com/Entertainment/","desktopTitle":"Netflix's 'I'm Thinking of Ending Things' is another dizzying triumph by Charlie Kaufman","tabletTitle":"Netflix's 'I'm Thinking of Ending Things' is another dizzying triumph by Charlie Kaufman","mobileTitle":"Netflix's 'I'm Thinking of Ending Things' is a dizzying triumph by Charlie Kaufman"},{"link":"https://mashable.com/article/what-is-selene-delgado-lopez-hoax/","customChannel":"Selene's not your friend","customChannelUrl":"https://mashable.com/Tech/","desktopTitle":"Say hello to to the latest weird viral Facebook hoax: ‘Selene Delgado Lopez’","tabletTitle":"Say hello to to the latest weird viral Facebook hoax: ‘Selene Delgado Lopez’","mobileTitle":"Say hello to to the latest weird viral Facebook hoax: ‘Selene Delgado Lopez’"}]}}
+  
+    channelId=null
+    mashKit.posts.LatestChannelColumnFeed({data: {"dataFeed":[{"itemUrl":"https://mashable.com/article/black-lives-matter-protests-peaceful/","imgAlt":"Protests this summer were mostly peaceful and new data proves it","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"Protests this summer were mostly peaceful and new data proves it","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118918%252F33a527d4-3a5e-4825-9987-494eebf64112.jpg%252F80x80.jpg?signature=4wHfisrCRTCuX-7A1woW3qXAGpU=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"jpg","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118918%252F33a527d4-3a5e-4825-9987-494eebf64112.webp%252F175x175.webp?signature=kxIT8yd23JnUdGBKWxCIej9rUzM=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118918%252F33a527d4-3a5e-4825-9987-494eebf64112.webp%252F80x80.webp?signature=m4MVb5hbE1QgQmqM2_gscFgEoeo=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","naturalWidth":"80","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118918%252F33a527d4-3a5e-4825-9987-494eebf64112.jpg%252F175x175.jpg?signature=V2iCDuiD6ftRRPJ0Lk76mr2v7u8=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118918%252F33a527d4-3a5e-4825-9987-494eebf64112.jpg%252F80x80.jpg?signature=4wHfisrCRTCuX-7A1woW3qXAGpU=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","sizes":"(max-width: 480px) 175w,80w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Social Good","channel_link":"https://mashable.com/Social%20Good/","author_name":"Siobhan Neela-Stock","excerpt":"A new report finds that nearly 95 percent of analyzed protests were peaceful. ","display_title":"Protests this summer were mostly peaceful and new data proves it","dataCampaign":"hp-n-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/video/nordic-waterfall-bridge/","imgAlt":"Walk over a waterfall on this breathtaking bridge in Norway","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"Walk over a waterfall on this breathtaking bridge in Norway","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118891%252Fdec94f7b-4cf8-431d-bcad-35199a0fd37f.png%252F80x80.png?signature=Rp4OGfcw7OYvmabS3cRQinIPLtY=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"png","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118891%252Fdec94f7b-4cf8-431d-bcad-35199a0fd37f.webp%252F175x175.webp?signature=WZyl_dUYZoBD6izdqGLp-FIk3lY=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118891%252Fdec94f7b-4cf8-431d-bcad-35199a0fd37f.webp%252F80x80.webp?signature=j2RPAywID7FEgoONjgz0f3PhhhA=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","naturalWidth":"80","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118891%252Fdec94f7b-4cf8-431d-bcad-35199a0fd37f.png%252F175x175.png?signature=9wwS-PcVrO-3jhZoa8wqPxDO8ZA=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118891%252Fdec94f7b-4cf8-431d-bcad-35199a0fd37f.png%252F80x80.png?signature=Rp4OGfcw7OYvmabS3cRQinIPLtY=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","sizes":"(max-width: 480px) 175w,80w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Tech","channel_link":"https://mashable.com/Tech/","author_name":"Lacey Smith","excerpt":"It's worth getting over your fear of heights.","display_title":"Walk over a waterfall on this breathtaking bridge in Norway","dataCampaign":"hp-n-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/video/the-dominance-of-chaos-algorithms/","imgAlt":"Why chaos prevents us from predicting the weather","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"Why chaos prevents us from predicting the weather","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118897%252Fdedce5f1-aaf5-413b-a21e-f1b16c140a3c.png%252F80x80.png?signature=Aoe074efJqtE__Rii-brJJSG_8Q=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"png","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118897%252Fdedce5f1-aaf5-413b-a21e-f1b16c140a3c.webp%252F175x175.webp?signature=5Kz7eWSVwggmtEVaPBCkGSMzdhE=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118897%252Fdedce5f1-aaf5-413b-a21e-f1b16c140a3c.webp%252F80x80.webp?signature=N-XQQRzFA2ohgUQWkNMKFWOyE38=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","naturalWidth":"80","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118897%252Fdedce5f1-aaf5-413b-a21e-f1b16c140a3c.png%252F175x175.png?signature=jUdcVgArzg-tLwj5wGQliX3iNUs=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118897%252Fdedce5f1-aaf5-413b-a21e-f1b16c140a3c.png%252F80x80.png?signature=Aoe074efJqtE__Rii-brJJSG_8Q=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","sizes":"(max-width: 480px) 175w,80w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Science","channel_link":"https://mashable.com/Science/","author_name":"Mark Stetson","excerpt":"\"A lot of people think the butterfly effect is a metaphor for chaos. It's not a metaphor, it's real.\"","display_title":"Why chaos prevents us from predicting the weather","dataCampaign":"hp-n-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/article/philips-hue-lightstrip/","imgAlt":"New Philips Hue lightstrip is a pricey way to add color to your home theater","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"New Philips Hue lightstrip is a pricey way to add color to your home theater","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118888%252F59557a1d-3089-4e2b-84e9-daf5b5cd43ff.jpg%252F80x80.jpg?signature=OaRlviBHzHhDVfeSxAyMH4zk4ug=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"jpg","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118888%252F59557a1d-3089-4e2b-84e9-daf5b5cd43ff.webp%252F175x175.webp?signature=PLbklev0XadAr3mEWvDMgnFiPIc=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118888%252F59557a1d-3089-4e2b-84e9-daf5b5cd43ff.webp%252F80x80.webp?signature=7g0rg2WoMF7XqEyG31X3V1uf2Dk=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","naturalWidth":"80","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118888%252F59557a1d-3089-4e2b-84e9-daf5b5cd43ff.jpg%252F175x175.jpg?signature=64kwreroVhI7-LQWeaRzVsk2Up0=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118888%252F59557a1d-3089-4e2b-84e9-daf5b5cd43ff.jpg%252F80x80.jpg?signature=OaRlviBHzHhDVfeSxAyMH4zk4ug=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","sizes":"(max-width: 480px) 175w,80w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Tech","channel_link":"https://mashable.com/Tech/","author_name":"Jennimai Nguyen","excerpt":"The LED lights sync with the content on your TV's screen. ","display_title":"New Philips Hue lightstrip is a pricey way to add color to your home theater","dataCampaign":"hp-n-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/shopping/sept-4-samsung-galaxy-fit/","imgAlt":"The Samsung Galaxy Fit tracker is on sale for $49.99. It's usually $99.99.","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"The Samsung Galaxy Fit tracker is on sale for $49.99. It's usually $99.99.","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118912%252F891ad07b-a239-46ef-98e5-c9c2ffa3befb.png%252F80x80.png?signature=dAY1rFb2Eb4VbTnIcnwCYPjqeJ4=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"png","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118912%252F891ad07b-a239-46ef-98e5-c9c2ffa3befb.webp%252F175x175.webp?signature=rUYv1d7KuNFISzMSPn9n1V-mV9c=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118912%252F891ad07b-a239-46ef-98e5-c9c2ffa3befb.webp%252F80x80.webp?signature=seEVABM27ZCu2QJsP8D3-Swdi6w=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","naturalWidth":"80","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118912%252F891ad07b-a239-46ef-98e5-c9c2ffa3befb.png%252F175x175.png?signature=YPVLDsuCElprM7oh2dh56VNondY=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118912%252F891ad07b-a239-46ef-98e5-c9c2ffa3befb.png%252F80x80.png?signature=dAY1rFb2Eb4VbTnIcnwCYPjqeJ4=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","sizes":"(max-width: 480px) 175w,80w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Tech","channel_link":"https://mashable.com/Tech/","author_name":"Leah Stodart","excerpt":"You won't find a better fitness tracker in this price range.","display_title":"The Samsung Galaxy Fit tracker is on sale for $49.99. It's usually $99.99.","dataCampaign":"hp-n-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/article/facebook-ar-glasses-super-hearing/","imgAlt":"Facebook's AR glasses could give you super hearing","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"Facebook's AR glasses could give you super hearing","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118909%252F7bfee66b-b6bb-4c8e-85f3-b87d9680c9ae.png%252F80x80.png?signature=exxDozer0zNeJTIvVt9JQmZyJco=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"png","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118909%252F7bfee66b-b6bb-4c8e-85f3-b87d9680c9ae.webp%252F175x175.webp?signature=ulsL4cgxSYIwt-bj9ALtam7iPbQ=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118909%252F7bfee66b-b6bb-4c8e-85f3-b87d9680c9ae.webp%252F80x80.webp?signature=RAZou9qlRuPV80agxvu-HYM4vzI=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","naturalWidth":"80","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118909%252F7bfee66b-b6bb-4c8e-85f3-b87d9680c9ae.png%252F175x175.png?signature=53zaOE4tU8QgueRKCGRr-va6nYY=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118909%252F7bfee66b-b6bb-4c8e-85f3-b87d9680c9ae.png%252F80x80.png?signature=exxDozer0zNeJTIvVt9JQmZyJco=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","sizes":"(max-width: 480px) 175w,80w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Tech","channel_link":"https://mashable.com/Tech/","author_name":"Stan Schroeder","excerpt":"You heard us. ","display_title":"Facebook's AR glasses could give you super hearing","dataCampaign":"hp-n-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/ad/video/huawei-matebook-x-pro-2020/","imgAlt":"A hands-on look at Huawei’s MateBook X Pro 2020","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"A hands-on look at Huawei’s MateBook X Pro 2020","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118908%252Fba06eaa9-8b5e-4208-9612-18567da0955f.png%252F80x80.png?signature=dgyfc9HSZ_AGTACthfWr0Km6fm4=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"png","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118908%252Fba06eaa9-8b5e-4208-9612-18567da0955f.webp%252F175x175.webp?signature=7VJqt7WmKvZX23WmNy-Z05LELso=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118908%252Fba06eaa9-8b5e-4208-9612-18567da0955f.webp%252F80x80.webp?signature=JXDe7PTLRYiTd7TaZpJWZ2VBCCI=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","naturalWidth":"80","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118908%252Fba06eaa9-8b5e-4208-9612-18567da0955f.png%252F175x175.png?signature=tAkcSlek_zEUOfyQ4zCR8IeSaqU=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118908%252Fba06eaa9-8b5e-4208-9612-18567da0955f.png%252F80x80.png?signature=dgyfc9HSZ_AGTACthfWr0Km6fm4=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","sizes":"(max-width: 480px) 175w,80w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Tech","channel_link":"https://mashable.com/Tech/","author_name":"Mashable Brand X","excerpt":"It comes equipped with a pop-up camera, a fingerprint power button for security, and so much more.","display_title":"A hands-on look at Huawei’s MateBook X Pro 2020","dataCampaign":"hp-n-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/article/vivo-smartphone-changing-color/","imgAlt":"Check out Vivo's wild color-changing phone in new video","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"Check out Vivo's wild color-changing phone in new video","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118906%252F50a5c00a-0d62-4901-a0b3-55c7be76d395.jpg%252F80x80.jpg?signature=GN0KZGDVJ6AGLsStbn6h9eIVwQg=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"jpg","loading":"lazy","naturalWidth":"80","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118906%252F50a5c00a-0d62-4901-a0b3-55c7be76d395.jpg%252F175x175.jpg?signature=9n5F4RckFlJqHLC5cn9UolKXRn8=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118906%252F50a5c00a-0d62-4901-a0b3-55c7be76d395.jpg%252F80x80.jpg?signature=GN0KZGDVJ6AGLsStbn6h9eIVwQg=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","sizes":"(max-width: 480px) 175w,80w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":null},"channel_label":"Tech","channel_link":"https://mashable.com/Tech/","author_name":"Stan Schroeder","excerpt":"Smartphones could become less boring soon. ","display_title":"Check out Vivo's wild color-changing phone in new video","dataCampaign":"hp-n-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/article/away-review-netflix/","imgAlt":"Netflix's 'Away' orbits around astronaut family tension in a predictable but satisfying Season 1","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"Netflix's 'Away' orbits around astronaut family tension in a predictable but satisfying Season 1","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118744%252F18002e6b-0b55-4925-b602-196831768e20.jpg%252F80x80.jpg?signature=1j0F4knEwI1ZTesoDViH4maxazA=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"jpg","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118744%252F18002e6b-0b55-4925-b602-196831768e20.webp%252F175x175.webp?signature=e6mzrOkISRGO7dcRsH3thdvK4kM=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118744%252F18002e6b-0b55-4925-b602-196831768e20.webp%252F80x80.webp?signature=qpe09KZ_iSQyGzpGUi8CwV3k444=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","naturalWidth":"80","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118744%252F18002e6b-0b55-4925-b602-196831768e20.jpg%252F175x175.jpg?signature=lRT0ZsK90ESKaCpIWWm0dnW0PDQ=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118744%252F18002e6b-0b55-4925-b602-196831768e20.jpg%252F80x80.jpg?signature=1j0F4knEwI1ZTesoDViH4maxazA=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","sizes":"(max-width: 480px) 175w,80w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Entertainment","channel_link":"https://mashable.com/Entertainment/","author_name":"Brooke Bajgrowicz","excerpt":"3... 2... 1... Hilary Swank.","display_title":"Netflix's 'Away' orbits around astronaut family tension in a predictable but satisfying Season 1","dataCampaign":"hp-n-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/video/floating-office-rotterdam/","imgAlt":"This solar-powered platform will be the world's largest floating office","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"This solar-powered platform will be the world's largest floating office","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118900%252Fba56afa5-54e6-4aef-a039-386f3a906383.jpg%252F80x80.jpg?signature=70McN5Y4-PzFQiB-Po1Pa6qWOFM=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"jpg","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118900%252Fba56afa5-54e6-4aef-a039-386f3a906383.webp%252F175x175.webp?signature=PhavZd6DNr9O9YQOdzN3GihZ3Sk=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118900%252Fba56afa5-54e6-4aef-a039-386f3a906383.webp%252F80x80.webp?signature=Ykl7IxwoIC3FwZMQ575ffJjnkII=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","naturalWidth":"80","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118900%252Fba56afa5-54e6-4aef-a039-386f3a906383.jpg%252F175x175.jpg?signature=QsIlZ5brRVB6Fbz9w0bwfUdxjLE=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 175w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118900%252Fba56afa5-54e6-4aef-a039-386f3a906383.jpg%252F80x80.jpg?signature=70McN5Y4-PzFQiB-Po1Pa6qWOFM=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 80w","sizes":"(max-width: 480px) 175w,80w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Tech","channel_link":"https://mashable.com/Tech/","author_name":"Emmet Smith","excerpt":"The office uses its own solar energy source, a water-based heat exchange system, and is built entirely out of timber","display_title":"This solar-powered platform will be the world's largest floating office","dataCampaign":"hp-n-$0","dataPageNum":1}],"moreDataAvailable":true,"currentPage":1}, feedUrl:`/channeldatafeed/${channelId}/new/page/{pageId}`, channelId: channelId}, 'column-new', 'left_column');
+    mashKit.posts.LatestChannelColumnFeed({data: {"dataFeed":[{"itemUrl":"https://mashable.com/article/best-music-documentaries-netflix/","imgAlt":"The best music documentaries you can stream on Netflix","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"The best music documentaries you can stream on Netflix","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118781%252F8317a287-0231-412b-86ad-55053469d4ef.jpg%252F356x205.jpg?signature=ESmj9gXXbRMuHiwKwS4TdSPD4hA=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"jpg","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118781%252F8317a287-0231-412b-86ad-55053469d4ef.webp%252F280x157.webp?signature=BxXuyRFj-02z4ixJ0SFb12qIhtY=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118781%252F8317a287-0231-412b-86ad-55053469d4ef.webp%252F356x205.webp?signature=cdjB3lk6TrwZ7Qxt8fib_Y90X3c=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w","naturalWidth":"356","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118781%252F8317a287-0231-412b-86ad-55053469d4ef.jpg%252F280x157.jpg?signature=rdbwKRGH4fLk_pKv61aGSUmBWJU=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118781%252F8317a287-0231-412b-86ad-55053469d4ef.jpg%252F356x205.jpg?signature=ESmj9gXXbRMuHiwKwS4TdSPD4hA=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w","sizes":"(max-width: 480px) 280w,356w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Entertainment","channel_link":"https://mashable.com/Entertainment/","author_name":"Shannon Connellan","excerpt":"Get a front row ticket — to your couch.","display_title":"The best music documentaries you can stream on Netflix","dataCampaign":"hp-r-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/article/best-tweets-week-september-4/","imgAlt":"The 15 best tweets of the week, including doodie pants, a lad, and a bird","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"The 15 best tweets of the week, including doodie pants, a lad, and a bird","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118883%252F38bb5e15-d324-4b9b-af64-8c12b7a16183.png%252F356x205.png?signature=dSGuic0YmQocBrLs99mOA3Wv2LM=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"png","loading":"lazy","naturalWidth":"356","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118883%252F38bb5e15-d324-4b9b-af64-8c12b7a16183.png%252F280x157.png?signature=iU2sJ-FaAzcLLmNRCt1h3e_wcPY=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118883%252F38bb5e15-d324-4b9b-af64-8c12b7a16183.png%252F356x205.png?signature=dSGuic0YmQocBrLs99mOA3Wv2LM=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w","sizes":"(max-width: 480px) 280w,356w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":null},"channel_label":"Culture","channel_link":"https://mashable.com/Culture/","author_name":"Tim Marcin","excerpt":"Good tweets! Getcha good tweets, here. ","display_title":"The 15 best tweets of the week, including doodie pants, a lad, and a bird","dataCampaign":"hp-r-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/article/tinder-swipe-night-uk/","imgAlt":"Tinder launches apocalyptic Swipe Night experience in the UK and around the world","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"Tinder launches apocalyptic Swipe Night experience in the UK and around the world","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118902%252F66ac5725-9a57-470b-bc35-732e89959fce.jpg%252F356x205.jpg?signature=S97JfbYSom3yt4h6c_TsmEqhlrg=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"jpg","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118902%252F66ac5725-9a57-470b-bc35-732e89959fce.webp%252F280x157.webp?signature=yOJJj8tl43XfIvYld1ylyKkVShA=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118902%252F66ac5725-9a57-470b-bc35-732e89959fce.webp%252F356x205.webp?signature=DVVVUg_CaUAD0fc-D6-5RuEUGCU=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w","naturalWidth":"356","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118902%252F66ac5725-9a57-470b-bc35-732e89959fce.jpg%252F280x157.jpg?signature=v_y1Ul4zBc_-dWZxzNsbIEczRa0=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118902%252F66ac5725-9a57-470b-bc35-732e89959fce.jpg%252F356x205.jpg?signature=S97JfbYSom3yt4h6c_TsmEqhlrg=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w","sizes":"(max-width: 480px) 280w,356w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Culture","channel_link":"https://mashable.com/Culture/","author_name":"Rachel Thompson","excerpt":"Trying to find love as the world ends? What a concept! ","display_title":"Tinder launches apocalyptic Swipe Night experience in the UK and around the world","dataCampaign":"hp-r-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/article/bts-dynamite-youtube-comment-record/","imgAlt":"BTS' 'Dynamite' is now the most commented-on music video in YouTube history","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"BTS' 'Dynamite' is now the most commented-on music video in YouTube history","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118899%252F23a4e18c-bd43-4137-8eef-a61ea5f69a95.jpg%252F356x205.jpg?signature=WkeaRT8fj3mSHl_Xb-HKA2QQJUA=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"jpg","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118899%252F23a4e18c-bd43-4137-8eef-a61ea5f69a95.webp%252F280x157.webp?signature=2aZ5wRTJv-0r-pfoLJ3nooZgL_c=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118899%252F23a4e18c-bd43-4137-8eef-a61ea5f69a95.webp%252F356x205.webp?signature=q0HeKXxjJEFaG-C8R7eUIWLr0jo=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w","naturalWidth":"356","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118899%252F23a4e18c-bd43-4137-8eef-a61ea5f69a95.jpg%252F280x157.jpg?signature=JmLafsOV-IFf7oqfV5ivE6rnOr0=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118899%252F23a4e18c-bd43-4137-8eef-a61ea5f69a95.jpg%252F356x205.jpg?signature=WkeaRT8fj3mSHl_Xb-HKA2QQJUA=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w","sizes":"(max-width: 480px) 280w,356w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Entertainment","channel_link":"https://mashable.com/Entertainment/","author_name":"Amanda Yeo","excerpt":"BTS just keep smashing records.","display_title":"BTS' 'Dynamite' is now the most commented-on music video in YouTube history","dataCampaign":"hp-r-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/video/this-is-how-algorithms-work/","imgAlt":"How algorithms work","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"How algorithms work","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118892%252Fe6a9c2ad-e125-4ab5-9e99-cca6daa10c66.png%252F356x205.png?signature=7ZQ8bRh7urI2QDIU01CnY4GB0TY=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"png","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118892%252Fe6a9c2ad-e125-4ab5-9e99-cca6daa10c66.webp%252F280x157.webp?signature=CegijkvCBz3nKflq-ePQyzpmxgw=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118892%252Fe6a9c2ad-e125-4ab5-9e99-cca6daa10c66.webp%252F356x205.webp?signature=HSEJbv6Alq6nqc5Z79Og89fGHa0=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w","naturalWidth":"356","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118892%252Fe6a9c2ad-e125-4ab5-9e99-cca6daa10c66.png%252F280x157.png?signature=zWFSkA-5NJSLWF3Hnztm_cARIas=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118892%252Fe6a9c2ad-e125-4ab5-9e99-cca6daa10c66.png%252F356x205.png?signature=7ZQ8bRh7urI2QDIU01CnY4GB0TY=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w","sizes":"(max-width: 480px) 280w,356w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Tech","channel_link":"https://mashable.com/Tech/","author_name":"Danica D'Souza","excerpt":"It's actually a pretty simple concept.","display_title":"How algorithms work","dataCampaign":"hp-r-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/article/netflix-love-guaranteed-review/","imgAlt":"Netflix's 'Love, Guaranteed' is a shell of a rom-com that will make you want to sue","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"Netflix's 'Love, Guaranteed' is a shell of a rom-com that will make you want to sue","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118803%252F1651ea2f-b1e4-4509-b847-ec04d1d455f9.jpg%252F356x205.jpg?signature=MeEYB0WlIOzow_1KrUWYnpsW67Y=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"jpg","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118803%252F1651ea2f-b1e4-4509-b847-ec04d1d455f9.webp%252F280x157.webp?signature=tfMRJwhVIhstwKTuWTtQVQjamsE=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118803%252F1651ea2f-b1e4-4509-b847-ec04d1d455f9.webp%252F356x205.webp?signature=2TPNQrEl0xi15x1Njpuao10XkZo=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w","naturalWidth":"356","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118803%252F1651ea2f-b1e4-4509-b847-ec04d1d455f9.jpg%252F280x157.jpg?signature=O9beyhc2szOO16GVHhLj8ltmnPg=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118803%252F1651ea2f-b1e4-4509-b847-ec04d1d455f9.jpg%252F356x205.jpg?signature=MeEYB0WlIOzow_1KrUWYnpsW67Y=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w","sizes":"(max-width: 480px) 280w,356w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Entertainment","channel_link":"https://mashable.com/Entertainment/","author_name":"Proma Khosla","excerpt":"You will not love it, guaranteed.","display_title":"Netflix's 'Love, Guaranteed' is a shell of a rom-com that will make you want to sue","dataCampaign":"hp-r-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/roundup/best-vacuum-sealers/","imgAlt":"Tired of wasting food? Save it in your freezer with these vacuum sealers.","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"Tired of wasting food? Save it in your freezer with these vacuum sealers.","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118646%252F97c9e5e0-4e10-4fba-861f-3e2e03b5a338.png%252F356x205.png?signature=nmE21X3f7ZEn8jLKhcJ0euvrdxk=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"png","loading":"lazy","naturalWidth":"356","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118646%252F97c9e5e0-4e10-4fba-861f-3e2e03b5a338.png%252F280x157.png?signature=12FumZMKqFyB7DeoFCmdWNiAMKE=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118646%252F97c9e5e0-4e10-4fba-861f-3e2e03b5a338.png%252F356x205.png?signature=nmE21X3f7ZEn8jLKhcJ0euvrdxk=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w","sizes":"(max-width: 480px) 280w,356w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":null},"channel_label":"Tech","channel_link":"https://mashable.com/Tech/","author_name":"Kaitlyn McInnis","excerpt":"These genius tools make meal prep and sous vide cooking a breeze.","display_title":"Tired of wasting food? Save it in your freezer with these vacuum sealers.","dataCampaign":"hp-r-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/roundup/best-home-theater-speakers/","imgAlt":"Turn your living room into a movie theater with these impressive speakers","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"Turn your living room into a movie theater with these impressive speakers","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118636%252Faf55a1e7-e6d9-46e4-b506-3073093f104d.jpg%252F356x205.jpg?signature=U688jQ5aSkNszgHd6JzUBpmXtUw=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"jpg","loading":"lazy","naturalWidth":"356","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118636%252Faf55a1e7-e6d9-46e4-b506-3073093f104d.jpg%252F280x157.jpg?signature=s3IocAfrFqIO1CK8fkw_oOn6hxE=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118636%252Faf55a1e7-e6d9-46e4-b506-3073093f104d.jpg%252F356x205.jpg?signature=U688jQ5aSkNszgHd6JzUBpmXtUw=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w","sizes":"(max-width: 480px) 280w,356w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":null},"channel_label":"Tech","channel_link":"https://mashable.com/Tech/","author_name":"Simone Scully","excerpt":"Transform your living room into an immersive viewing experience and you’ll never stream Netflix the same way again.","display_title":"Turn your living room into a movie theater with these impressive speakers","dataCampaign":"hp-r-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/article/the-office-andy-daly-ben-franklin/","imgAlt":"Andy Daly shares what it was like playing Ben Franklin on 'The Office'","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"Andy Daly shares what it was like playing Ben Franklin on 'The Office'","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118735%252F25a0ef43-e82a-4dfa-9d8f-c6698f8ce13b.png%252F356x205.png?signature=gbpfCNLU8LsdgkqEBGVU7uo85e0=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"png","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118735%252F25a0ef43-e82a-4dfa-9d8f-c6698f8ce13b.webp%252F280x157.webp?signature=5XeoYAxEg2hTjhv4qmYcgWeExoY=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118735%252F25a0ef43-e82a-4dfa-9d8f-c6698f8ce13b.webp%252F356x205.webp?signature=btIejkMPJKUAy37UkXvI3LvqvJ4=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w","naturalWidth":"356","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118735%252F25a0ef43-e82a-4dfa-9d8f-c6698f8ce13b.png%252F280x157.png?signature=wUlIfC-lg9kPjjNPKVfoyTtgW8A=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118735%252F25a0ef43-e82a-4dfa-9d8f-c6698f8ce13b.png%252F356x205.png?signature=gbpfCNLU8LsdgkqEBGVU7uo85e0=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w","sizes":"(max-width: 480px) 280w,356w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Entertainment","channel_link":"https://mashable.com/Entertainment/","author_name":"Nicole Gallucci","excerpt":"\"I did not really tie that cherry stem with my tongue.\"","display_title":"Andy Daly shares what it was like playing Ben Franklin on 'The Office'","dataCampaign":"hp-r-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/article/mulan-free-streaming-disney-december/","imgAlt":"'Mulan' will stream on Disney+ in December for no additional cost","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"'Mulan' will stream on Disney+ in December for no additional cost","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118863%252F3dda132e-072e-4ab2-ac53-e25a72906f22.jpg%252F356x205.jpg?signature=m_IdfqtzlQ226nK2JfCi7WOCs8w=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"jpg","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118863%252F3dda132e-072e-4ab2-ac53-e25a72906f22.webp%252F280x157.webp?signature=f6-KAwDcyl9C_dw-EH3pOWcS74o=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118863%252F3dda132e-072e-4ab2-ac53-e25a72906f22.webp%252F356x205.webp?signature=oTns5H6ni8QQQ3ItBkYx4AMHJr8=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w","naturalWidth":"356","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118863%252F3dda132e-072e-4ab2-ac53-e25a72906f22.jpg%252F280x157.jpg?signature=dNu1KWDcIiRffWClV4nmM4KVD08=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118863%252F3dda132e-072e-4ab2-ac53-e25a72906f22.jpg%252F356x205.jpg?signature=m_IdfqtzlQ226nK2JfCi7WOCs8w=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w","sizes":"(max-width: 480px) 280w,356w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Entertainment","channel_link":"https://mashable.com/Entertainment/","author_name":"Amanda Yeo","excerpt":"It isn't a theatrical release, but it'll have to do.","display_title":"'Mulan' will stream on Disney+ in December for no additional cost","dataCampaign":"hp-r-$0","dataPageNum":1}],"moreDataAvailable":true,"currentPage":1}, feedUrl:`/channeldatafeed/${channelId}/rising/page/{pageId}`, channelId: channelId}, 'column-rising', 'middle_column');
+    mashKit.posts.LatestChannelColumnFeed({data: {"dataFeed":[{"itemUrl":"https://mashable.com/article/madden-21-glitches-videos/","imgAlt":"'Madden '21' is full of hilarious glitches that defy the laws of physics","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"'Madden '21' is full of hilarious glitches that defy the laws of physics","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118920%252F34d2724e-a1a4-444f-a90d-0a9f7449d644.png%252F638x368.png?signature=EYL4wLapv-O3ANf9mz3p40Qqzjk=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"png","loading":"lazy","naturalWidth":"638","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118920%252F34d2724e-a1a4-444f-a90d-0a9f7449d644.png%252F280x157.png?signature=yNAVsmqP_usfW1PKb--hWtXyPe4=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118920%252F34d2724e-a1a4-444f-a90d-0a9f7449d644.png%252F356x205.png?signature=r7gcze6x84ly6TnCSQarW77GMgQ=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118920%252F34d2724e-a1a4-444f-a90d-0a9f7449d644.png%252F638x368.png?signature=EYL4wLapv-O3ANf9mz3p40Qqzjk=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 638w","sizes":"(max-width: 480px) 280w,(max-width: 1160px) 356w,638w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":null},"channel_label":"Culture","channel_link":"https://mashable.com/Culture/","author_name":"Tim Marcin","excerpt":"Floating balls, bear crawls, invisible players. ","display_title":"'Madden '21' is full of hilarious glitches that defy the laws of physics","dataCampaign":"hp-h-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/article/marvels-avengers-game-review/","imgAlt":"'Marvel's Avengers' is a superhero story that's only just beginning","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"'Marvel's Avengers' is a superhero story that's only just beginning","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118828%252F329ed9fb-2bd4-44c1-b567-f99592f0f329.jpg%252F638x368.jpg?signature=Y3IxtNZ-jvrJhgxh9kV9ID_Uwyg=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"jpg","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118828%252F329ed9fb-2bd4-44c1-b567-f99592f0f329.webp%252F280x157.webp?signature=kkxB4K1z_zGhZkAzs8Dd-4Z-zIw=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118828%252F329ed9fb-2bd4-44c1-b567-f99592f0f329.webp%252F356x205.webp?signature=XxFJfq_0tQdek76qv2OdFEiMZv0=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118828%252F329ed9fb-2bd4-44c1-b567-f99592f0f329.webp%252F638x368.webp?signature=eIM8_iESmXP3phTbzxp4s3a05Tk=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 638w","naturalWidth":"638","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118828%252F329ed9fb-2bd4-44c1-b567-f99592f0f329.jpg%252F280x157.jpg?signature=mHYDHsXrzfDefRORujpl2GOcy0o=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118828%252F329ed9fb-2bd4-44c1-b567-f99592f0f329.jpg%252F356x205.jpg?signature=bJgoPA4Nq1vDvHoGLeHiyg3n5jY=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118828%252F329ed9fb-2bd4-44c1-b567-f99592f0f329.jpg%252F638x368.jpg?signature=Y3IxtNZ-jvrJhgxh9kV9ID_Uwyg=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 638w","sizes":"(max-width: 480px) 280w,(max-width: 1160px) 356w,638w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Entertainment","channel_link":"https://mashable.com/Entertainment/","author_name":"Adam Rosenberg and Alexis Nedd","excerpt":"\"Marvel's Avengers\" nails the feeling of joining Earth's Mightiest Heroes, but the game's best offerings are clearly yet to come.","display_title":"'Marvel's Avengers' is a superhero story that's only just beginning","dataCampaign":"hp-h-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/article/tony-hawks-pro-skater-1-2-review/","imgAlt":"'Tony Hawk's Pro Skater 1+2' review: A timeless classic rises like the mighty Phoenix","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"'Tony Hawk's Pro Skater 1+2' review: A timeless classic rises like the mighty Phoenix","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118825%252Fa6def608-974f-4c19-9e73-9b321ae22d2e.jpg%252F638x368.jpg?signature=UOqWmATmU3JcuOrdiH9JVABMiKU=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"jpg","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118825%252Fa6def608-974f-4c19-9e73-9b321ae22d2e.webp%252F280x157.webp?signature=99fFWkUmhMR878BHwnr3--czlLU=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118825%252Fa6def608-974f-4c19-9e73-9b321ae22d2e.webp%252F356x205.webp?signature=LjF5LXLUUci9iEt9TUWIAYuQZak=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118825%252Fa6def608-974f-4c19-9e73-9b321ae22d2e.webp%252F638x368.webp?signature=kXJIwjFHhgR9xaKbR8neBBp-Izs=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 638w","naturalWidth":"638","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118825%252Fa6def608-974f-4c19-9e73-9b321ae22d2e.jpg%252F280x157.jpg?signature=6soESm3YDWY1hlhT1tSB82ED8nk=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118825%252Fa6def608-974f-4c19-9e73-9b321ae22d2e.jpg%252F356x205.jpg?signature=Skz9tVM5e-GBXu_vUtu5_X58AZA=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118825%252Fa6def608-974f-4c19-9e73-9b321ae22d2e.jpg%252F638x368.jpg?signature=UOqWmATmU3JcuOrdiH9JVABMiKU=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 638w","sizes":"(max-width: 480px) 280w,(max-width: 1160px) 356w,638w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Entertainment","channel_link":"https://mashable.com/Entertainment/","author_name":"Alex Perry","excerpt":"Despite numerous attempts to kill the series over the years, \"Tony Hawk's Pro Skater 1+2\" is a nearly ideal restoration of all-time greatness.","display_title":"'Tony Hawk's Pro Skater 1+2' review: A timeless classic rises like the mighty Phoenix","dataCampaign":"hp-h-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/article/facebook-labels-trump-suggestion-vote-twice/","imgAlt":"Facebook reveals its impotence as Trump sows confusion about voting twice","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"Facebook reveals its impotence as Trump sows confusion about voting twice","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118889%252Fabde4ab7-eded-4cba-8328-d21901ca0d96.png%252F638x368.png?signature=IJMZqmtx95rmgS_2KNBQ7frBQeA=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"png","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118889%252Fabde4ab7-eded-4cba-8328-d21901ca0d96.webp%252F280x157.webp?signature=JDwF3mS7bn8DNVKlddUg3rmFHh4=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118889%252Fabde4ab7-eded-4cba-8328-d21901ca0d96.webp%252F356x205.webp?signature=W4XDPcGN4wXJtkWQ6yBBkLCmwMw=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118889%252Fabde4ab7-eded-4cba-8328-d21901ca0d96.webp%252F638x368.webp?signature=5pTGRply64L7x4ibchSUr9pKvts=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 638w","naturalWidth":"638","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118889%252Fabde4ab7-eded-4cba-8328-d21901ca0d96.png%252F280x157.png?signature=rHM0l1aw8zxG7KVgBrcV2peNH-k=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118889%252Fabde4ab7-eded-4cba-8328-d21901ca0d96.png%252F356x205.png?signature=MZipTudPoY9cX6q7oS_HAsF2YKE=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118889%252Fabde4ab7-eded-4cba-8328-d21901ca0d96.png%252F638x368.png?signature=IJMZqmtx95rmgS_2KNBQ7frBQeA=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 638w","sizes":"(max-width: 480px) 280w,(max-width: 1160px) 356w,638w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Tech","channel_link":"https://mashable.com/Tech/","author_name":"Jack Morse","excerpt":"Trump suggested it's OK for some people to vote twice just hours after Facebook promised to remove \"implicit misrepresentations about voting.\" ","display_title":"Facebook reveals its impotence as Trump sows confusion about voting twice","dataCampaign":"hp-h-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/article/the-boys-season-2-review-amazon-prime-video/","imgAlt":"Amazon's 'The Boys' holds a mirror up to society in Season 2. It's the best kind of ugly.","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"Amazon's 'The Boys' holds a mirror up to society in Season 2. It's the best kind of ugly.","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118739%252Fc0e5b6b4-cf4b-4b2f-94e7-5a59d383e666.png%252F638x368.png?signature=vXJGfXYjwjEZVuWl4vFSG94Q0zg=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"png","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118739%252Fc0e5b6b4-cf4b-4b2f-94e7-5a59d383e666.webp%252F280x157.webp?signature=Szt9yQFZatAF4DlrIb1y3yY8QXk=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118739%252Fc0e5b6b4-cf4b-4b2f-94e7-5a59d383e666.webp%252F356x205.webp?signature=f2xD_DRNq2LCbt4m5SbH0Jbv8bE=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118739%252Fc0e5b6b4-cf4b-4b2f-94e7-5a59d383e666.webp%252F638x368.webp?signature=Z_s9waoKd0ep2J35-Mrs3WOnJis=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 638w","naturalWidth":"638","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118739%252Fc0e5b6b4-cf4b-4b2f-94e7-5a59d383e666.png%252F280x157.png?signature=uOAumbZJY9cAnX7VcOVUIwCvHuQ=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118739%252Fc0e5b6b4-cf4b-4b2f-94e7-5a59d383e666.png%252F356x205.png?signature=gZ8rA753msUjl-0u9AMjYYmc5Qc=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118739%252Fc0e5b6b4-cf4b-4b2f-94e7-5a59d383e666.png%252F638x368.png?signature=vXJGfXYjwjEZVuWl4vFSG94Q0zg=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 638w","sizes":"(max-width: 480px) 280w,(max-width: 1160px) 356w,638w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Entertainment","channel_link":"https://mashable.com/Entertainment/","author_name":"Adam Rosenberg","excerpt":"'The Boys' are back in town.","display_title":"Amazon's 'The Boys' holds a mirror up to society in Season 2. It's the best kind of ugly.","dataCampaign":"hp-h-$0","dataPageNum":1},{"itemUrl":"https://mashable.com/article/magic-the-gathering-zendikar-rising-reveal-shatterskull/","imgAlt":"New 'Magic: The Gathering' Zendikar Rising card makes rocks fall, everyone dies","responsive_images_html5":{"img_set_info":{"tag_attributes":{"alt":"New 'Magic: The Gathering' Zendikar Rising card makes rocks fall, everyone dies","src":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118564%252Fcd5670bf-d7de-4dc4-891e-30cceff8e046.png%252F638x368.png?signature=1ulyQ7GE97ECOzK4_kPCe4TTC_Y=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com","src_type":"png","loading":"lazy","version_webp_srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118564%252Fcd5670bf-d7de-4dc4-891e-30cceff8e046.webp%252F280x157.webp?signature=EYz_2D-HcMylmRy0kthNVF_jCBM=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118564%252Fcd5670bf-d7de-4dc4-891e-30cceff8e046.webp%252F356x205.webp?signature=hqIOz7PokKMIiQ_Y0lh4Wim_A20=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118564%252Fcd5670bf-d7de-4dc4-891e-30cceff8e046.webp%252F638x368.webp?signature=5eJeYEzq_LHLo7nlbK7h4aDSnvc=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 638w","naturalWidth":"638","srcset":"https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118564%252Fcd5670bf-d7de-4dc4-891e-30cceff8e046.png%252F280x157.png?signature=nTkvRCsbD8zEvNAeCc-63Ey9Nic=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 280w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118564%252Fcd5670bf-d7de-4dc4-891e-30cceff8e046.png%252F356x205.png?signature=s3npm6EiMwUWOeQ9Tp11fUmXfhw=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 356w,https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F118564%252Fcd5670bf-d7de-4dc4-891e-30cceff8e046.png%252F638x368.png?signature=1ulyQ7GE97ECOzK4_kPCe4TTC_Y=\u0026source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com 638w","sizes":"(max-width: 480px) 280w,(max-width: 1160px) 356w,638w"}},"image_caption_info":null,"image_credit_info":null,"data_clickthrough_info":null,"version_webp_callback":{}},"channel_label":"Entertainment","channel_link":"https://mashable.com/Entertainment/","author_name":"Amanda Yeo","excerpt":"Well this looks perfectly safe.","display_title":"New 'Magic: The Gathering' Zendikar Rising card makes rocks fall, everyone dies","dataCampaign":"hp-h-$0","dataPageNum":1}],"moreDataAvailable":true,"currentPage":1}, feedUrl:`/channeldatafeed/${channelId}/hot/page/{pageId}`, channelId: channelId}, 'column-hot', 'right_column');
+  
+  
+    if(window.location.pathname === "/")
+      window.auto_refresh = setTimeout(function() {
+        window.location = "/";
+      }, 600000);
+  });
+</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"ItemList","url":"https://mashable.com/","itemListElement":[{"position":1,"@type":"ListItem","item":{"@type":"ItemList","url":"https://mashable.com/","itemListElement":[{"position":1,"@type":"ListItem","url":"https://mashable.com/article/black-lives-matter-protests-peaceful/"},{"position":2,"@type":"ListItem","url":"https://mashable.com/video/nordic-waterfall-bridge/"},{"position":3,"@type":"ListItem","url":"https://mashable.com/video/the-dominance-of-chaos-algorithms/"},{"position":4,"@type":"ListItem","url":"https://mashable.com/article/philips-hue-lightstrip/"},{"position":5,"@type":"ListItem","url":"https://mashable.com/shopping/sept-4-samsung-galaxy-fit/"},{"position":6,"@type":"ListItem","url":"https://mashable.com/article/facebook-ar-glasses-super-hearing/"},{"position":7,"@type":"ListItem","url":"https://mashable.com/ad/video/huawei-matebook-x-pro-2020/"},{"position":8,"@type":"ListItem","url":"https://mashable.com/article/vivo-smartphone-changing-color/"},{"position":9,"@type":"ListItem","url":"https://mashable.com/article/away-review-netflix/"},{"position":10,"@type":"ListItem","url":"https://mashable.com/video/floating-office-rotterdam/"}]}},{"position":2,"@type":"ListItem","item":{"@type":"ItemList","url":"https://mashable.com/","itemListElement":[{"position":1,"@type":"ListItem","url":"https://mashable.com/article/best-music-documentaries-netflix/"},{"position":2,"@type":"ListItem","url":"https://mashable.com/article/best-tweets-week-september-4/"},{"position":3,"@type":"ListItem","url":"https://mashable.com/article/tinder-swipe-night-uk/"},{"position":4,"@type":"ListItem","url":"https://mashable.com/article/bts-dynamite-youtube-comment-record/"},{"position":5,"@type":"ListItem","url":"https://mashable.com/video/this-is-how-algorithms-work/"},{"position":6,"@type":"ListItem","url":"https://mashable.com/article/netflix-love-guaranteed-review/"},{"position":7,"@type":"ListItem","url":"https://mashable.com/roundup/best-vacuum-sealers/"},{"position":8,"@type":"ListItem","url":"https://mashable.com/roundup/best-home-theater-speakers/"},{"position":9,"@type":"ListItem","url":"https://mashable.com/article/the-office-andy-daly-ben-franklin/"},{"position":10,"@type":"ListItem","url":"https://mashable.com/article/mulan-free-streaming-disney-december/"}]}},{"position":3,"@type":"ListItem","item":{"@type":"ItemList","url":"https://mashable.com/","itemListElement":[{"position":1,"@type":"ListItem","url":"https://mashable.com/article/madden-21-glitches-videos/"},{"position":2,"@type":"ListItem","url":"https://mashable.com/article/marvels-avengers-game-review/"},{"position":3,"@type":"ListItem","url":"https://mashable.com/article/tony-hawks-pro-skater-1-2-review/"},{"position":4,"@type":"ListItem","url":"https://mashable.com/article/facebook-labels-trump-suggestion-vote-twice/"},{"position":5,"@type":"ListItem","url":"https://mashable.com/article/the-boys-season-2-review-amazon-prime-video/"},{"position":6,"@type":"ListItem","url":"https://mashable.com/article/magic-the-gathering-zendikar-rising-reveal-shatterskull/"}]}}]}</script>
+</div>
+</div>
+
+</div><div id='fb-root'></div><script>
+  window.addEventListener('DOMContentLoaded', function() {
+    if(window.initPage) { window.initPage() }
+    else { $(function() { window.initPage && window.initPage(); })}
+  });
+</script>
+</div><footer id='site-footer-wrapper'>
+<div class='page-container' id='site-footer'><ul class='nav'><li><a href="/mashable-staff-masthead/">Masthead</a></li><li><a href="https://www.j2global.com/careers/jobs/?brand=Mashable">Jobs</a></li><li><a href="/advertise/">Advertise</a></li><li><a href="https://t.yesware.com/tt/71b30593224daffd090ea9e6e9a481b97a93a23e/6192469e5a936fed0f85e635cbb1d635/d7b076cb4f776b359888a0adc1e8ea67/support.stackcommerce.com/hc/en-us/requests/new?persona=Internet+Culture&amp;publisher_id=273&amp;publisher_logo=https%3A%2F%2Fcdnp1.stackassets.com%2Ffe11f98bd7119dad30cf34c37f61e214dc6e61c3%2Fstore%2Ff21e674c706b34333b2a7e45fc05ab8d85be251e7409bd9035d60e3e7f10%2FMashable_Web.png&amp;source=lower+footer+contact+link">Mashable Shop Contact</a></li><li><a href="/privacy/">Privacy</a></li><li><a href="/terms/">Terms</a></li></ul><ul class='social'><li><a aria-label='Facebook' class='facebook' href='https://www.facebook.com/mashable/' target='_social'>
+<span class='hidden-description'>
+Facebook mashable
+</span>
+</a></li>
+<li><a aria-label='Twitter' class='twitter' href='https://twitter.com/mashable' target='_social'>
+<span class='hidden-description'>
+Twitter mashable
+</span>
+</a></li>
+<li><a aria-label='RSS' class='rss' href='http://feeds.mashable.com/Mashable' target='_social'>
+<span class='hidden-description'>
+Feeds mashable
+</span>
+</a></li>
+<li><a aria-label='Pinterest' class='pinterest' href='https://pinterest.com/mashable/' target='_social'>
+<span class='hidden-description'>
+Pinterest mashable
+</span>
+</a></li>
+<li><a aria-label='Youtube' class='youtube' href='https://www.youtube.com/user/mashable' target='_social'>
+<span class='hidden-description'>
+YouTube mashable
+</span>
+</a></li>
+<li><a aria-label='StumbleUpon' class='stumbleupon' href='https://www.stumbleupon.com/channel/Mashable' target='_social'>
+<span class='hidden-description'>
+StumbleUpon mashable
+</span>
+</a></li>
+<li><a aria-label='LinkedIn' class='linkedin' href='https://www.linkedin.com/company/mashable' target='_social'>
+<span class='hidden-description'>
+LinkedIn mashable
+</span>
+</a></li>
+<li><a href='https://www.bbb.org/us/ny/new-york/profile/digital-media/ziff-davis-llc-0121-531/#sealclick' rel='nofollow' style='width: 64px;height:30px;' target='_blank'>
+<img alt='Ziff Davis, LLC BBB Business Review' loading='lazy' src='https://seal-newyork.bbb.org/seals/darkgray-seal-96-50-bbb-531.png' style='border: 0;display:block;margin-top:3px;'>
+<span class='hidden-description'>
+Better Business Bureau Accredited Business
+</span>
+</a></li></ul>
+<div class='about'>
+<a class='brand' href='/'>
+<div class='logo-black'>
+<img alt="Mashable" loading="lazy" src="https://mashable.com/assets/header_logo_333.v2-1dce0882cb9387c9af137b3dde2552d797560a13d620e76a9ec9e51e6494f1d8.png" />
+</div>
+<div class='logo-white'>
+<img alt="Mashable" loading="lazy" src="https://mashable.com/assets/header_logo_333.v2_white-ee8fb71add59d36a268dbcd145592924613d874ea62d92f416874ea538cf7961.png" />
+</div>
+</a>
+<span class='blurb'>is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe.</span>
+</div>
+<div class='copyright-and-legal'>
+<div>
+&copy;2020
+Mashable, Inc. All Rights Reserved.
+</div>
+<div>
+Mashable, MashBash and Mashable House are among the federally registered trademarks of Ziff Davis, LLC and may not be used by third parties without explicit permission.
+</div>
+</div>
+</div>
+
+</footer>
+
+<noscript>
+<img src='https://sb.scorecardresearch.com/p?c1=8&amp;c2=6036202&amp;c3=1&amp;cv=2.0&amp;cj=1'>
+</noscript>
+</div>
+</div>
+
+<script>
+  window.detectStaffEditableLink && window.detectStaffEditableLink();
+</script>
+<script>
+  if(!window.cnxCommonUtils) {
+    window.cnxCommonUtils = {
+      getHref: function() {
+        return document.location.href;
+      }
+    }
+  }
+  if(!window.getExperimentValue('vendors', 'disableScript', '').match(/connatix/)) {
+    (function(){
+      var s = document.createElement('script');
+      s.async = true;
+      s.type = 'text/javascript';
+      s.src = 'https://cdn.connatix.com/min/connatix.handler.dfp.min.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+    })();
+  }
+</script>
+
+</body>
+</html>
